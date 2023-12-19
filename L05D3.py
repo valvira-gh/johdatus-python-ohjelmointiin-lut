@@ -16,6 +16,15 @@ def kysyLuku(kehote):
     luku = int(syote)
     return luku
 
+def laskeSumma(luku1, luku2):
+    print(f"{luku1} + {luku2} = {luku1 + luku2}")
+    return None
+
+def laskeErotus(luku1, luku2):
+    print(f"{luku1} - {luku2} = {luku1 - luku2}")
+    return None
+
+
 def paaohjelma():
     valinta = 1
 
@@ -26,13 +35,9 @@ def paaohjelma():
             operandi1 = kysyLuku("Anna ensimmäinen luku: ")
             operandi2 = kysyLuku("Anna toinen luku: ")
         elif valinta == 2:
-            operaattori = "+"
-            tulos = operandi1 + operandi2
-            print(f"{operandi1} {operaattori} {operandi2} = {tulos}")
+            laskeSumma(operandi1, operandi2)
         elif valinta == 3:
-            operaattori = "-"
-            tulos = operandi1 - operandi2
-            print(f"{operandi1} {operaattori} {operandi2} = {tulos}")
+            laskeErotus(operandi1, operandi2)
         elif valinta == 0:
             print("\n" +" Kiitos ohjelman käytöstä.")
         else:
@@ -43,5 +48,6 @@ def paaohjelma():
     return None
 
 paaohjelma()
+
 
 
