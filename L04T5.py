@@ -53,6 +53,3 @@ while True:
 print("Lopetetaan")
 print("Kiitos ohjelman käytöstä.")
         
-        
-    
-
