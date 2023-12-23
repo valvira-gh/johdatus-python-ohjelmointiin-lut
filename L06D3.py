@@ -20,6 +20,7 @@ def kysyNimi(kehote):
 def laskeDatanSumma(nimi):
     summa = 0
     tiedosto = open(nimi, 'r', encoding='utf-8')
+    rivi = tiedosto.readline() # Skipataan ensimmäinen rivi
     rivi = tiedosto.readline()
     while len(rivi) > 0:
         data = int(rivi[10:])
@@ -31,6 +32,7 @@ def laskeDatanSumma(nimi):
 
 def haeEkaPvm(nimi):
     tiedosto = open(nimi, 'r', encoding='utf-8')
+    riv = tiedosto.readline() # Skipataan ensimmäinen rivi
     rivi = tiedosto.readline()
     pvm = rivi[0:9]
     return pvm
@@ -38,7 +40,8 @@ def haeEkaPvm(nimi):
 
 def haeVikaPvm(nimi):
     tiedosto = open(nimi, 'r', encoding='utf-8')
-    rivi = tiedosto.readline()
+    rivi = tiedosto.readline() # Skipataan ensimmäinen rivi
+    rivi = tiedosto.readline() 
     vikaRivi = rivi
     while len(rivi) > 0:
         vikaRivi = rivi
@@ -59,6 +62,9 @@ def tallennaTulokset(nimi, summa, pvmEka, pvmVika):
 
 def paaohjelma():
     valinta = 1
+    summa = 0
+    pvmEka = None
+    pvmVika = None
 
     while valinta != 0:
         valinta = valikko()
