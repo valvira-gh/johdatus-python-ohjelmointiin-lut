@@ -1,0 +1,11 @@
+Ville Valo;0401234567;37
+Erkki Erkko;0501234567;21
+Joona Jokamies;0441234567;89
+Jaska Jokunen;0451234567;44
+Teija Terasmies;0401234568;32
+Risto Reipas;0501234568;53
+Erja Railakas;0441234568;38
+Matti Mallikas;0405671234;18
+Einari Vahvanen;0503451234;29
+Reija Kulmikas;0441231234;42
+Piritta Salminen;0509871234;17

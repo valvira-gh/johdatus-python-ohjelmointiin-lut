@@ -1,0 +1,2507 @@
+ID;Kommentti;Mainepisteet
+0001;mvseibmosm5;100
+0002;s5semh5ehse5;-42
+0003;spmss4easm4445;
+0004;464566446;1435
+0005;hmpirmtbnorn;''
+0006;-.456-<odsngo5;''
+0008;,,s.5,ymsw5w-56;13434
+0011;eotigseo;a
+0011;,,s.5,.(556;2073
+0012;,,s.5,.(556;235
+0013;-.4,56kom-m<entti5;8805
+0014;¤%qwerty,.;5056
+0015;Hei, olen kommentti.;-608
+0016;Hei, olen kommentti.;332
+0017;¤%qwerty,.;-4039
+0018;Validi kommentti;-3328
+0019;Hei, olen kommentti.;2559
+0020;<>!=();7129
+0021;Validi kommentti;-831
+0022;Hei, olen kommentti.;-1939
+0023;Validi kommentti;1410
+0024;,,s.5,.(556;9996
+0025;,,s.5,.(556;7066
+0026;par!si-ttu;-7218
+0027;Validi kommentti;1343
+0028;,,s.5,.(556;-237
+0029;Validi kommentti;3416
+0030;<>!=();6736
+0031;Validi kommentti;5820
+0032;Validi kommentti;1347
+0033;<>!=();-646
+0034;Validi kommentti;-1398
+0035;<>!=();-6453
+0036;par!si-ttu;8106
+0037;,,s.5,.(556;4677
+0038;<>!=();-4244
+0039;<>!=();-3961
+0040;<>!=();7364
+0041;par!si-ttu;3085
+0042;Validi kommentti;-4653
+0043;¤%qwerty,.;4455
+0044;Validi kommentti;-8277
+0045;<>!=();-5640
+0046;<>!=();349
+0047;-.4,56kom-m<entti5;18
+0048;<>!=();2717
+0049;,,s.5,.(556;-3810
+0050;-.4,56kom-m<entti5;7260
+0051;Validi kommentti;-8315
+0052;,,s.5,.(556;3538
+0053;Hei, olen kommentti.;6368
+0054;<>!=();-2661
+0055;Hei, olen kommentti.;5823
+0056;Validi kommentti;-3705
+0057;<>!=();664
+0058;,,s.5,.(556;2885
+0059;¤%qwerty,.;-6444
+0060;Hei, olen kommentti.;4082
+0061;Validi kommentti;-4231
+0062;par!si-ttu;4090
+0063;Hei, olen kommentti.;8889
+0064;-.4,56kom-m<entti5;7038
+0065;<>!=();1130
+0066;-.4,56kom-m<entti5;8659
+0067;Hei, olen kommentti.;-2061
+0068;Hei, olen kommentti.;-4575
+0069;Hei, olen kommentti.;-897
+0070;,,s.5,.(556;-6285
+0071;Hei, olen kommentti.;7708
+0072;<>!=();6711
+0073;par!si-ttu;2599
+0074;¤%qwerty,.;6345
+0075;,,s.5,.(556;-1341
+0076;Validi kommentti;7600
+0077;Hei, olen kommentti.;9032
+0078;¤%qwerty,.;187
+0079;Hei, olen kommentti.;2894
+0080;<>!=();-6737
+0081;,,s.5,.(556;7885
+0082;-.4,56kom-m<entti5;3642
+0083;<>!=();-4673
+0084;<>!=();-5537
+0085;<>!=();8415
+0086;,,s.5,.(556;-1493
+0087;<>!=();6893
+0088;Hei, olen kommentti.;-3683
+0089;-.4,56kom-m<entti5;6412
+0090;,,s.5,.(556;5901
+0091;Hei, olen kommentti.;-8297
+0092;Validi kommentti;1162
+0093;,,s.5,.(556;-8875
+0094;-.4,56kom-m<entti5;1098
+0095;,,s.5,.(556;8361
+0096;<>!=();311
+0097;¤%qwerty,.;7243
+0098;¤%qwerty,.;4170
+0099;Hei, olen kommentti.;-9491
+0100;Validi kommentti;-2404
+0685;Hei, olen kommentti.;-3379
+0686;,,s.5,.(556;8453
+0687;¤%qwerty,.;-1553
+0688;,,s.5,.(556;-6642
+0689;,,s.5,.(556;9469
+0690;-.4,56kom-m<entti5;9234
+0691;Hei, olen kommentti.;-2616
+0692;par!si-ttu;-9610
+0693;Validi kommentti;5087
+0694;Hei, olen kommentti.;-5663
+0695;-.4,56kom-m<entti5;2846
+0696;-.4,56kom-m<entti5;7174
+0697;,,s.5,.(556;7695
+0698;Validi kommentti;-2130
+0699;Hei, olen kommentti.;4729
+0700;par!si-ttu;-8515
+0701;par!si-ttu;-4637
+0702;par!si-ttu;8461
+0703;¤%qwerty,.;1995
+0704;,,s.5,.(556;3916
+0705;par!si-ttu;-3302
+0706;-.4,56kom-m<entti5;-4437
+0707;,,s.5,.(556;-9528
+0708;-.4,56kom-m<entti5;-2763
+0709;<>!=();1031
+0710;Validi kommentti;-1885
+0711;par!si-ttu;2345
+0712;Validi kommentti;-9823
+0713;par!si-ttu;4619
+0714;Validi kommentti;-9209
+0715;par!si-ttu;5253
+0716;¤%qwerty,.;-6714
+0717;,,s.5,.(556;-4560
+0718;par!si-ttu;-5333
+0719;<>!=();-6394
+0720;par!si-ttu;-7752
+0721;<>!=();8362
+0722;Validi kommentti;-1993
+0723;<>!=();9300
+0724;par!si-ttu;2887
+0725;,,s.5,.(556;-7109
+0726;<>!=();-6872
+0727;Hei, olen kommentti.;8383
+0728;par!si-ttu;-1782
+0729;¤%qwerty,.;-5856
+0730;¤%qwerty,.;-1608
+0731;-.4,56kom-m<entti5;-5778
+0732;-.4,56kom-m<entti5;772
+0733;,,s.5,.(556;-6985
+0734;,,s.5,.(556;-9735
+0735;,,s.5,.(556;872
+0736;par!si-ttu;1151
+0737;Validi kommentti;-6442
+0738;,,s.5,.(556;-5108
+0739;par!si-ttu;9394
+0740;par!si-ttu;-9162
+0741;par!si-ttu;998
+0742;Hei, olen kommentti.;8091
+0743;¤%qwerty,.;-7162
+0744;,,s.5,.(556;4951
+0745;<>!=();-4301
+0746;-.4,56kom-m<entti5;3072
+0747;<>!=();5540
+0748;¤%qwerty,.;-7907
+0749;<>!=();4273
+0750;,,s.5,.(556;2028
+0751;,,s.5,.(556;-7833
+0752;par!si-ttu;-3130
+0753;<>!=();-8380
+0754;Validi kommentti;8937
+0755;Validi kommentti;-6505
+0756;-.4,56kom-m<entti5;8548
+0757;¤%qwerty,.;-6595
+0758;Hei, olen kommentti.;-3332
+0759;<>!=();-7396
+0760;,,s.5,.(556;5365
+0761;par!si-ttu;3585
+0762;par!si-ttu;-1391
+0763;Hei, olen kommentti.;8817
+0764;Hei, olen kommentti.;-6304
+0765;Hei, olen kommentti.;8970
+0766;<>!=();-4699
+0767;¤%qwerty,.;-8205
+0768;par!si-ttu;-5269
+0769;Hei, olen kommentti.;6301
+0770;Validi kommentti;-584
+0771;-.4,56kom-m<entti5;4149
+0772;<>!=();4488
+0773;Validi kommentti;216
+0774;<>!=();-7293
+0775;<>!=();5472
+0776;Hei, olen kommentti.;-8540
+0777;Validi kommentti;4317
+0778;<>!=();1025
+0779;¤%qwerty,.;7777
+0780;Validi kommentti;-3714
+0781;<>!=();6126
+0782;,,s.5,.(556;9038
+0783;Hei, olen kommentti.;139
+0784;Validi kommentti;2063
+0785;Hei, olen kommentti.;3889
+0786;-.4,56kom-m<entti5;-7662
+0787;par!si-ttu;2142
+0788;Hei, olen kommentti.;-4179
+0789;,,s.5,.(556;1244
+0790;,,s.5,.(556;-4929
+0791;<>!=();2114
+0792;Hei, olen kommentti.;-2279
+0793;¤%qwerty,.;-1686
+0794;-.4,56kom-m<entti5;4034
+0795;Hei, olen kommentti.;7334
+0796;par!si-ttu;-1699
+0797;,,s.5,.(556;-6136
+0798;-.4,56kom-m<entti5;-3800
+0799;-.4,56kom-m<entti5;8174
+0800;,,s.5,.(556;8736
+0801;Hei, olen kommentti.;4185
+0802;-.4,56kom-m<entti5;836
+0803;par!si-ttu;-2692
+0804;-.4,56kom-m<entti5;6811
+0805;,,s.5,.(556;6342
+0806;¤%qwerty,.;8753
+0807;<>!=();-928
+0808;par!si-ttu;-6179
+0809;,,s.5,.(556;-4918
+0810;Validi kommentti;-405
+0811;Validi kommentti;-2163
+0812;,,s.5,.(556;4837
+0813;Hei, olen kommentti.;3974
+0814;Validi kommentti;-4651
+0815;<>!=();7744
+0816;Hei, olen kommentti.;7452
+0817;-.4,56kom-m<entti5;-6162
+0818;,,s.5,.(556;9951
+0819;¤%qwerty,.;2893
+0820;Validi kommentti;-9974
+0821;-.4,56kom-m<entti5;-2225
+0822;par!si-ttu;1258
+0823;par!si-ttu;9822
+0824;<>!=();-3641
+0825;<>!=();2549
+0826;,,s.5,.(556;-677
+0827;par!si-ttu;7620
+0828;<>!=();-5950
+0829;<>!=();-7086
+0830;-.4,56kom-m<entti5;5061
+0831;<>!=();-5604
+0832;<>!=();2969
+0833;par!si-ttu;-4088
+0834;Validi kommentti;-8503
+0835;Validi kommentti;4889
+0836;¤%qwerty,.;-6586
+0837;-.4,56kom-m<entti5;-4988
+0838;par!si-ttu;4110
+0839;,,s.5,.(556;-3795
+0840;¤%qwerty,.;4964
+0841;Hei, olen kommentti.;1660
+0842;Validi kommentti;744
+0843;Validi kommentti;-2377
+0844;<>!=();3967
+0845;par!si-ttu;7514
+0846;<>!=();9982
+0847;,,s.5,.(556;-8529
+0848;Validi kommentti;-9634
+0849;¤%qwerty,.;-5076
+0850;<>!=();-7806
+0851;par!si-ttu;5664
+0852;<>!=();1197
+0853;,,s.5,.(556;-1413
+0854;<>!=();-6694
+0855;-.4,56kom-m<entti5;-7136
+0856;Hei, olen kommentti.;-6033
+0857;-.4,56kom-m<entti5;903
+0858;<>!=();-5133
+0859;¤%qwerty,.;-6986
+0860;<>!=();3810
+0861;Validi kommentti;-1331
+0862;¤%qwerty,.;-8723
+0863;Hei, olen kommentti.;-2675
+0864;-.4,56kom-m<entti5;5944
+0865;Validi kommentti;7646
+0866;,,s.5,.(556;5756
+0867;par!si-ttu;-7990
+0868;par!si-ttu;-3821
+0869;Validi kommentti;8248
+0870;Hei, olen kommentti.;-6639
+0871;Validi kommentti;4497
+0872;¤%qwerty,.;3111
+0873;<>!=();-2644
+0874;-.4,56kom-m<entti5;6172
+0875;,,s.5,.(556;1247
+0876;par!si-ttu;1543
+0877;<>!=();-7708
+0878;,,s.5,.(556;5252
+0879;par!si-ttu;-6570
+0880;Hei, olen kommentti.;-5066
+0881;Hei, olen kommentti.;-3340
+0882;-.4,56kom-m<entti5;-2128
+0883;¤%qwerty,.;5475
+0884;,,s.5,.(556;2839
+0885;¤%qwerty,.;525
+0886;par!si-ttu;100
+0887;<>!=();-9
+0888;Hei, olen kommentti.;4822
+0889;<>!=();812
+0890;-.4,56kom-m<entti5;7046
+0891;,,s.5,.(556;-4633
+0892;<>!=();-9752
+0893;¤%qwerty,.;-8391
+0894;-.4,56kom-m<entti5;6774
+0895;¤%qwerty,.;-9186
+0896;Hei, olen kommentti.;895
+0897;Validi kommentti;2359
+0898;Hei, olen kommentti.;9257
+0899;par!si-ttu;-4116
+0900;Hei, olen kommentti.;7380
+0901;-.4,56kom-m<entti5;2533
+0902;-.4,56kom-m<entti5;-8963
+0903;Hei, olen kommentti.;-2495
+0904;¤%qwerty,.;-8390
+0905;,,s.5,.(556;-7174
+0906;-.4,56kom-m<entti5;-9222
+0907;,,s.5,.(556;-314
+0908;¤%qwerty,.;5019
+0909;,,s.5,.(556;-8738
+0910;<>!=();4573
+0911;Validi kommentti;-5540
+0912;Validi kommentti;9270
+0913;¤%qwerty,.;7933
+0914;,,s.5,.(556;2930
+0915;<>!=();7203
+0916;¤%qwerty,.;-6355
+0917;Validi kommentti;6381
+0918;-.4,56kom-m<entti5;-1741
+0919;,,s.5,.(556;9336
+0920;Validi kommentti;-9823
+0921;¤%qwerty,.;-6970
+0922;par!si-ttu;6536
+0923;Hei, olen kommentti.;-4088
+0924;<>!=();-5792
+0925;Hei, olen kommentti.;885
+0926;Hei, olen kommentti.;-3795
+0927;-.4,56kom-m<entti5;2675
+0928;¤%qwerty,.;-2807
+0929;Validi kommentti;-142
+0930;¤%qwerty,.;2490
+0931;Hei, olen kommentti.;409
+0932;¤%qwerty,.;5221
+0933;-.4,56kom-m<entti5;2920
+0934;par!si-ttu;-2913
+0935;¤%qwerty,.;-9301
+0936;¤%qwerty,.;6811
+0937;-.4,56kom-m<entti5;7091
+0938;Validi kommentti;937
+0939;¤%qwerty,.;3246
+0940;par!si-ttu;8720
+0941;-.4,56kom-m<entti5;1068
+0942;par!si-ttu;-3703
+0943;<>!=();-1879
+0944;Validi kommentti;9935
+0945;<>!=();8319
+0946;¤%qwerty,.;7016
+0947;par!si-ttu;-7956
+0948;Hei, olen kommentti.;5845
+0949;par!si-ttu;-77
+0950;<>!=();-4588
+0951;,,s.5,.(556;3315
+0952;par!si-ttu;5714
+0953;Hei, olen kommentti.;8100
+0954;,,s.5,.(556;-5721
+0955;<>!=();-2930
+0956;-.4,56kom-m<entti5;-771
+0957;par!si-ttu;6929
+0958;<>!=();-6104
+0959;par!si-ttu;3039
+0960;<>!=();5457
+0961;par!si-ttu;7799
+0962;Validi kommentti;2844
+0963;par!si-ttu;-9467
+0964;¤%qwerty,.;-6543
+0965;Validi kommentti;-170
+0966;par!si-ttu;-4502
+0967;,,s.5,.(556;-1209
+0968;¤%qwerty,.;-4432
+0969;<>!=();-2502
+0970;,,s.5,.(556;9914
+0971;-.4,56kom-m<entti5;6376
+0972;-.4,56kom-m<entti5;-801
+0973;-.4,56kom-m<entti5;-1026
+0974;<>!=();-6567
+0975;Hei, olen kommentti.;333
+975;Hei, olen kommentti.;-2478
+0977;Hei, olen kommentti.;6193
+0978;¤%qwerty,.;5349
+0979;,,s.5,.(556;3187
+0980;,,s.5,.(556;1576
+0981;-.4,56kom-m<entti5;4357
+0982;,,s.5,.(556;5233
+0983;,,s.5,.(556;-8450
+0984;<>!=();-3624
+0985;<>!=();3322
+0986;<>!=();8524
+0987;Validi kommentti;5711
+0988;Validi kommentti;5509
+0989;<>!=();-436
+0990;Hei, olen kommentti.;-6754
+0991;¤%qwerty,.;1558
+0992;,,s.5,.(556;-9222
+0993;,,s.5,.(556;8496
+0994;<>!=();5377
+0995;par!si-ttu;336
+0996;par!si-ttu;7217
+0997;par!si-ttu;-5901
+0998;¤%qwerty,.;7331
+0999;par!si-ttu;-76
+1000;Validi kommentti;-503
+1001;Validi kommentti;5284
+1002;par!si-ttu;-2383
+1003;Validi kommentti;-800
+1004;Validi kommentti;-4812
+1005;Validi kommentti;1528
+1006;-.4,56kom-m<entti5;-5841
+1007;,,s.5,.(556;-4467
+1008;par!si-ttu;-6435
+1009;,,s.5,.(556;-3423
+1010;¤%nlnpwrhn;21324
+1011;Validi kommentti;2311
+1012;Hei, olen kommentti.;6997
+1013;Hei, olen kommentti.;2856
+1014;Validi kommentti;-2043
+1015;¤%qwerty,.;-3736
+1016;,,s.5,.(556;6185
+1017;-.4,56kom-m<entti5;-6301
+1018;,,s.5,.(556;3210
+1019;par!si-ttu;5817
+1020;Validi kommentti;6169
+1021;-.4,56kom-m<entti5;-3161
+1022;Validi kommentti;9062
+1023;Validi kommentti;5898
+1024;-.4,56kom-m<entti5;-1903
+1025;par!si-ttu;-497
+1026;¤%qwerty,.;-6656
+1027;,,s.5,.(556;-6203
+1028;<>!=();5208
+1029;par!si-ttu;-4726
+1030;Validi kommentti;7117
+1031;-.4,56kom-m<entti5;9033
+1032;-.4,56kom-m<entti5;3072
+1033;¤%qwerty,.;-6163
+1034;par!si-ttu;-632
+1035;-.4,56kom-m<entti5;6124
+1036;-.4,56kom-m<entti5;5954
+1037;,,s.5,.(556;174
+1038;-.4,56kom-m<entti5;-1654
+1039;,,s.5,.(556;-1222
+1040;-.4,56kom-m<entti5;9480
+1041;,,s.5,.(556;-1913
+1042;Validi kommentti;6551
+1043;-.4,56kom-m<entti5;8716
+1044;par!si-ttu;-5669
+1045;Validi kommentti;5441
+1046;Hei, olen kommentti.;4596
+1047;¤%qwerty,.;9728
+1048;¤%qwerty,.;-2382
+1049;-.4,56kom-m<entti5;-264
+1050;par!si-ttu;-4065
+1051;-.4,56kom-m<entti5;-1830
+1052;par!si-ttu;-6120
+1053;<>!=();6251
+1054;¤%qwerty,.;-9886
+1055;Hei, olen kommentti.;-9182
+1056;-.4,56kom-m<entti5;-3913
+1057;-.4,56kom-m<entti5;-6963
+1058;-.4,56kom-m<entti5;-5983
+1059;<>!=();-3014
+1060;¤%qwerty,.;3736
+1061;,,s.5,.(556;84
+1062;Hei, olen kommentti.;-5982
+1063;Validi kommentti;-2113
+1064;par!si-ttu;-4287
+1065;Hei, olen kommentti.;3632
+1066;¤%qwerty,.;3152
+1067;,,s.5,.(556;6062
+1068;<>!=();7185
+1069;,,s.5,.(556;3412
+1070;-.4,56kom-m<entti5;-4782
+1071;par!si-ttu;-7348
+1072;Validi kommentti;-1758
+1073;Hei, olen kommentti.;7674
+1074;par!si-ttu;2860
+1075;¤%qwerty,.;-6040
+1076;Hei, olen kommentti.;7369
+1077;,,s.5,.(556;9895
+1078;¤%qwerty,.;-7390
+1079;¤%qwerty,.;-4358
+1080;Hei, olen kommentti.;-571
+1081;Validi kommentti;-234
+1082;,,s.5,.(556;4755
+1083;-.4,56kom-m<entti5;-553
+1084;par!si-ttu;2461
+1085;<>!=();6891
+1086;par!si-ttu;-4578
+1087;Hei, olen kommentti.;4066
+1088;¤%qwerty,.;-9495
+1089;Validi kommentti;1043
+1090;<>!=();8504
+1091;,,s.5,.(556;-2606
+1092;par!si-ttu;5010
+1093;Validi kommentti;-3866
+1094;¤%qwerty,.;461
+1095;¤%qwerty,.;-7250
+1096;Hei, olen kommentti.;4571
+1097;Validi kommentti;7009
+1098;Validi kommentti;1593
+1099;Validi kommentti;-3238
+1100;Hei, olen kommentti.;6291
+1101;-.4,56kom-m<entti5;9829
+1102;par!si-ttu;2562
+1103;Hei, olen kommentti.;5413
+1104;-.4,56kom-m<entti5;9325
+1105;par!si-ttu;799
+1106;-.4,56kom-m<entti5;4963
+1107;¤%qwerty,.;529
+1108;Hei, olen kommentti.;-3452
+1109;<>!=();6573
+1110;<>!=();-1597
+1111;par!si-ttu;8218
+1112;Hei, olen kommentti.;-5118
+1113;<>!=();-2069
+1114;¤%qwerty,.;3059
+1115;<>!=();-2221
+1116;,,s.5,.(556;-9579
+1117;¤%qwerty,.;9625
+1118;¤%qwerty,.;7789
+1119;,,s.5,.(556;-7678
+1120;,,s.5,.(556;-6029
+1121;<>!=();-3256
+1122;Validi kommentti;-6394
+1123;,,s.5,.(556;-6049
+1124;,,s.5,.(556;6838
+1125;Hei, olen kommentti.;417
+1126;Hei, olen kommentti.;3412
+1127;Validi kommentti;-9328
+1128;<>!=();8048
+1129;-.4,56kom-m<entti5;-1878
+1130;Hei, olen kommentti.;5860
+1131;par!si-ttu;4745
+1132;<>!=();2783
+1133;¤%qwerty,.;-3017
+1134;<>!=();-8474
+1135;¤%qwerty,.;-5035
+1136;-.4,56kom-m<entti5;-7883
+1137;Hei, olen kommentti.;-8812
+1138;<>!=();4094
+1139;<>!=();-2456
+1140;<>!=();2692
+1141;-.4,56kom-m<entti5;-4941
+1142;<>!=();6814
+1143;¤%qwerty,.;1882
+1144;-.4,56kom-m<entti5;-4690
+1145;-.4,56kom-m<entti5;-6430
+1146;Validi kommentti;-2201
+1147;,,s.5,.(556;-6837
+1148;,,s.5,.(556;-1086
+1149;,,s.5,.(556;-6886
+1150;-.4,56kom-m<entti5;344
+1151;,,s.5,.(556;-3880
+1152;par!si-ttu;4001
+1153;Validi kommentti;637
+1154;Hei, olen kommentti.;-5487
+1155;-.4,56kom-m<entti5;-5853
+1156;¤%qwerty,.;-1605
+1157;<>!=();8076
+1158;-.4,56kom-m<entti5;7141
+1159;-.4,56kom-m<entti5;6534
+1160;Validi kommentti;7374
+1161;par!si-ttu;9839
+1162;¤%qwerty,.;-6139
+1163;,,s.5,.(556;4200
+1164;<>!=();3950
+1165;¤%qwerty,.;-1964
+1166;par!si-ttu;5284
+1167;par!si-ttu;-1777
+1168;<>!=();-6360
+1169;,,s.5,.(556;7559
+1170;,,s.5,.(556;-4650
+1171;¤%qwerty,.;3472
+1172;Hei, olen kommentti.;-715
+1173;-.4,56kom-m<entti5;-1678
+1174;Validi kommentti;-5825
+1175;<>!=();9137
+1176;<>!=();-2164
+1177;¤%qwerty,.;4287
+1178;par!si-ttu;-6664
+1179;,,s.5,.(556;9055
+1180;par!si-ttu;5326
+1181;,,s.5,.(556;-9386
+1182;,,s.5,.(556;2924
+1183;¤%qwerty,.;-2758
+1184;,,s.5,.(556;-37
+1185;par!si-ttu;-584
+1186;<>!=();-5698
+1187;Validi kommentti;2970
+1188;¤%qwerty,.;3118
+1189;par!si-ttu;-4581
+1190;<>!=();-5198
+1191;,,s.5,.(556;5732
+1192;<>!=();-3735
+1193;<>!=();3612
+1194;,,s.5,.(556;8092
+1195;Hei, olen kommentti.;-6641
+1196;-.4,56kom-m<entti5;6511
+1197;-.4,56kom-m<entti5;62
+1198;Hei, olen kommentti.;1510
+1199;Hei, olen kommentti.;-8068
+1200;Validi kommentti;-8929
+1201;¤%qwerty,.;5168
+1202;¤%qwerty,.;8442
+1203;-.4,56kom-m<entti5;-6480
+1204;Hei, olen kommentti.;9423
+1205;¤%qwerty,.;128
+1206;¤%qwerty,.;5953
+1207;,,s.5,.(556;6502
+1208;Validi kommentti;5955
+1209;-.4,56kom-m<entti5;1257
+1210;<>!=();-4979
+1211;par!si-ttu;-268
+1212;Validi kommentti;-4589
+1213;Validi kommentti;-1739
+1214;Validi kommentti;6292
+1215;,,s.5,.(556;-7299
+1216;par!si-ttu;3079
+1217;¤%qwerty,.;2520
+1218;Hei, olen kommentti.;-8870
+1219;<>!=();-3212
+1220;par!si-ttu;27
+1221;Validi kommentti;3048
+1222;Hei, olen kommentti.;9142
+1223;Hei, olen kommentti.;6188
+1224;par!si-ttu;5568
+1225;Hei, olen kommentti.;1060
+1226;par!si-ttu;-1295
+1227;Hei, olen kommentti.;474
+1228;¤%qwerty,.;-4502
+1229;<>!=();6860
+1230;¤%qwerty,.;1731
+1231;Hei, olen kommentti.;680
+1232;¤%qwerty,.;-7039
+1233;,,s.5,.(556;-4682
+1234;Hei, olen kommentti.;-443
+1235;par!si-ttu;8714
+1236;Validi kommentti;4428
+1237;Hei, olen kommentti.;-4437
+1238;<>!=();-3706
+1239;<>!=();-8278
+1240;Validi kommentti;-7255
+1241;Validi kommentti;-1715
+1242;par!si-ttu;9372
+1243;Validi kommentti;1571
+1244;-.4,56kom-m<entti5;-1141
+1245;<>!=();-3588
+1246;,,s.5,.(556;6140
+1247;,,s.5,.(556;-4985
+1248;¤%qwerty,.;-8428
+1249;¤%qwerty,.;-6921
+1250;,,s.5,.(556;-6917
+1251;Validi kommentti;5265
+1252;Hei, olen kommentti.;8343
+1253;Validi kommentti;3514
+1254;Validi kommentti;9912
+1255;¤%qwerty,.;6278
+1256;-.4,56kom-m<entti5;-7606
+1257;Validi kommentti;-5860
+1258;Validi kommentti;-1513
+1259;,,s.5,.(556;-8054
+1260;-.4,56kom-m<entti5;5253
+1261;<>!=();668
+1262;,,s.5,.(556;-8284
+1263;-.4,56kom-m<entti5;6779
+1264;-.4,56kom-m<entti5;1218
+1265;par!si-ttu;-5480
+1266;<>!=();-2810
+1267;-.4,56kom-m<entti5;3645
+1268;-.4,56kom-m<entti5;9370
+1269;,,s.5,.(556;-8581
+1270;Hei, olen kommentti.;-2295
+1271;Hei, olen kommentti.;9382
+1272;-.4,56kom-m<entti5;2317
+1273;Hei, olen kommentti.;-2825
+1274;-.4,56kom-m<entti5;2919
+1275;,,s.5,.(556;-8558
+1276;¤%qwerty,.;-5181
+1277;Validi kommentti;-3304
+1278;Hei, olen kommentti.;-2510
+1279;Validi kommentti;2618
+1280;-.4,56kom-m<entti5;-2986
+1281;¤%qwerty,.;3517
+1282;par!si-ttu;9704
+1283;Validi kommentti;6875
+1284;¤%qwerty,.;8788
+1285;Hei, olen kommentti.;-3630
+1286;<>!=();1400
+1287;<>!=();2936
+1288;,,s.5,.(556;1209
+1289;Hei, olen kommentti.;-4164
+1290;par!si-ttu;6905
+1291;Hei, olen kommentti.;-5215
+1292;,,s.5,.(556;4802
+1293;par!si-ttu;-7968
+1294;,,s.5,.(556;-3547
+1295;<>!=();2382
+1296;-.4,56kom-m<entti5;3488
+1297;par!si-ttu;-2340
+1298;,,s.5,.(556;-7487
+1299;¤%qwerty,.;-2646
+1300;<>!=();-8037
+1301;,,s.5,.(556;-7947
+1302;-.4,56kom-m<entti5;-994
+1303;Validi kommentti;-9866
+1304;<>!=();7648
+1305;Hei, olen kommentti.;6319
+1306;Validi kommentti;1673
+1307;Hei, olen kommentti.;-9356
+1308;par!si-ttu;6666
+1309;-.4,56kom-m<entti5;469
+1310;<>!=();3818
+1311;,,s.5,.(556;228
+1312;par!si-ttu;6639
+1313;Validi kommentti;-6295
+1314;<>!=();-406
+1315;¤%qwerty,.;-7729
+1316;<>!=();-3919
+1317;-.4,56kom-m<entti5;-4636
+1318;¤%qwerty,.;-7945
+1319;<>!=();6539
+1320;Validi kommentti;-9040
+1321;<>!=();-2865
+1322;¤%qwerty,.;8582
+1323;¤%qwerty,.;-6363
+1324;-.4,56kom-m<entti5;-5765
+1325;par!si-ttu;-8535
+1326;,,s.5,.(556;787
+1327;<>!=();-3411
+1328;<>!=();5143
+1329;¤%qwerty,.;3710
+1330;,,s.5,.(556;-2694
+1331;<>!=();8564
+1332;-.4,56kom-m<entti5;-1724
+1333;-.4,56kom-m<entti5;-1817
+1334;<>!=();-340
+1335;¤%qwerty,.;-2568
+1336;Validi kommentti;5497
+1337;-.4,56kom-m<entti5;-5902
+1338;¤%qwerty,.;1787
+1339;Hei, olen kommentti.;9721
+1340;¤%qwerty,.;161
+1341;-.4,56kom-m<entti5;-9357
+1342;Validi kommentti;9664
+1343;Validi kommentti;-1768
+1344;Validi kommentti;9300
+1345;¤%qwerty,.;3610
+1346;Hei, olen kommentti.;6874
+1347;-.4,56kom-m<entti5;-9984
+1348;,,s.5,.(556;-7444
+1349;Validi kommentti;7317
+1350;Hei, olen kommentti.;-4203
+1351;-.4,56kom-m<entti5;4214
+1352;-.4,56kom-m<entti5;-4589
+1353;par!si-ttu;-5487
+1354;Hei, olen kommentti.;7818
+1355;Validi kommentti;-4701
+1356;-.4,56kom-m<entti5;6239
+1357;par!si-ttu;-1872
+1358;¤%qwerty,.;-6487
+1359;¤%qwerty,.;-270
+1360;par!si-ttu;873
+1361;Hei, olen kommentti.;-2129
+1362;¤%qwerty,.;9064
+1363;¤%qwerty,.;93
+1364;¤%qwerty,.;-457
+1365;par!si-ttu;-77
+1366;<>!=();5628
+1367;Validi kommentti;9966
+1368;par!si-ttu;-834
+1369;-.4,56kom-m<entti5;7307
+1370;Validi kommentti;-93
+1371;Validi kommentti;-4785
+1372;par!si-ttu;2005
+1373;Validi kommentti;6683
+1374;Validi kommentti;7342
+1375;Hei, olen kommentti.;6060
+1376;par!si-ttu;6211
+1377;<>!=();-5431
+1378;par!si-ttu;-2171
+1379;<>!=();1877
+1380;<>!=();9081
+1381;-.4,56kom-m<entti5;-5622
+1382;Validi kommentti;-7212
+1383;par!si-ttu;-6524
+1384;¤%qwerty,.;-8612
+1385;<>!=();1198
+1386;¤%qwerty,.;9814
+1387;-.4,56kom-m<entti5;-5730
+1388;¤%qwerty,.;-9839
+1389;Hei, olen kommentti.;8828
+1390;-.4,56kom-m<entti5;4764
+1391;¤%qwerty,.;7510
+1392;-.4,56kom-m<entti5;-1434
+1393;,,s.5,.(556;-1492
+1394;-.4,56kom-m<entti5;-6272
+1395;Validi kommentti;-5530
+1396;,,s.5,.(556;172
+1397;<>!=();-3937
+1398;<>!=();417
+1399;<>!=();-9655
+1400;par!si-ttu;-1659
+1401;<>!=();-1327
+1402;-.4,56kom-m<entti5;-6071
+1403;-.4,56kom-m<entti5;-4923
+1404;Validi kommentti;-3947
+1405;Validi kommentti;-9328
+1406;par!si-ttu;-9343
+1407;<>!=();-1485
+1408;Validi kommentti;5894
+1409;par!si-ttu;5369
+1410;<>!=();-8681
+1411;,,s.5,.(556;2956
+1412;<>!=();-739
+1413;¤%qwerty,.;5813
+1414;Hei, olen kommentti.;-7385
+1415;,,s.5,.(556;1949
+1416;,,s.5,.(556;1875
+1417;Validi kommentti;-1689
+1418;-.4,56kom-m<entti5;-9417
+1419;-.4,56kom-m<entti5;1316
+1420;-.4,56kom-m<entti5;5547
+1421;Validi kommentti;2100
+1422;Hei, olen kommentti.;698
+1423;par!si-ttu;-3255
+1424;Validi kommentti;-2991
+1425;par!si-ttu;-6958
+1426;Hei, olen kommentti.;-9308
+1427;Hei, olen kommentti.;6929
+1428;-.4,56kom-m<entti5;7229
+1429;Validi kommentti;2083
+1430;Validi kommentti;3951
+1431;-.4,56kom-m<entti5;-3182
+1432;,,s.5,.(556;-8755
+1433;Hei, olen kommentti.;5911
+1434;-.4,56kom-m<entti5;-3230
+1435;<>!=();567
+1436;par!si-ttu;-916
+1437;par!si-ttu;6634
+1438;Hei, olen kommentti.;-1323
+1439;-.4,56kom-m<entti5;-3757
+1440;par!si-ttu;3496
+1441;<>!=();5523
+1442;,,s.5,.(556;-9857
+1443;-.4,56kom-m<entti5;9290
+1444;Validi kommentti;-5142
+1445;¤%qwerty,.;-6896
+1446;par!si-ttu;1442
+1447;par!si-ttu;6665
+1448;par!si-ttu;-5616
+1449;Validi kommentti;-5153
+1450;¤%qwerty,.;7793
+1451;par!si-ttu;2404
+1452;Hei, olen kommentti.;5032
+1453;,,s.5,.(556;4368
+1454;Validi kommentti;5280
+1455;-.4,56kom-m<entti5;2530
+1456;-.4,56kom-m<entti5;-4006
+1457;-.4,56kom-m<entti5;6179
+1458;Hei, olen kommentti.;5727
+1459;<>!=();-5708
+1460;,,s.5,.(556;-5007
+1461;Hei, olen kommentti.;-5848
+1462;par!si-ttu;-5856
+1463;<>!=();6800
+1464;par!si-ttu;1866
+1465;-.4,56kom-m<entti5;-6029
+1466;¤%qwerty,.;3236
+1467;<>!=();976
+1468;par!si-ttu;4613
+1469;¤%qwerty,.;-7594
+1470;Hei, olen kommentti.;6067
+1471;Hei, olen kommentti.;-4201
+1472;Validi kommentti;-132
+1473;-.4,56kom-m<entti5;2611
+1474;-.4,56kom-m<entti5;-4347
+1475;Validi kommentti;-16
+1476;,,s.5,.(556;1174
+1477;-.4,56kom-m<entti5;-6836
+1478;par!si-ttu;4365
+1479;<>!=();3635
+1480;Validi kommentti;4201
+1481;par!si-ttu;9087
+1482;¤%qwerty,.;6825
+1483;,,s.5,.(556;8638
+1484;Validi kommentti;4568
+1485;¤%qwerty,.;8422
+1486;Hei, olen kommentti.;627
+1487;par!si-ttu;7301
+1488;Hei, olen kommentti.;2397
+1489;Validi kommentti;-2042
+1490;Validi kommentti;9552
+1491;<>!=();-4607
+1492;,,s.5,.(556;5597
+1493;<>!=();-4096
+1494;Hei, olen kommentti.;6116
+1495;¤%qwerty,.;84
+1496;Hei, olen kommentti.;3400
+1497;Hei, olen kommentti.;8523
+1498;Hei, olen kommentti.;6866
+1499;par!si-ttu;2360
+1500;,,s.5,.(556;-7174
+1501;Validi kommentti;-3373
+1502;Hei, olen kommentti.;6543
+1503;Validi kommentti;-5467
+1504;¤%qwerty,.;2498
+1505;<>!=();-6304
+1506;,,s.5,.(556;4138
+1507;Hei, olen kommentti.;-6758
+1508;-.4,56kom-m<entti5;-7045
+1509;Hei, olen kommentti.;-284
+1510;Hei, olen kommentti.;6050
+1511;par!si-ttu;1452
+1512;Validi kommentti;4888
+1513;-.4,56kom-m<entti5;-6076
+1514;-.4,56kom-m<entti5;6238
+1515;par!si-ttu;8006
+1516;par!si-ttu;2131
+1517;par!si-ttu;-5077
+1518;<>!=();5658
+1519;,,s.5,.(556;4881
+1520;-.4,56kom-m<entti5;-9992
+1521;-.4,56kom-m<entti5;2947
+1522;,,s.5,.(556;2094
+1523;par!si-ttu;7923
+1524;<>!=();7261
+1525;par!si-ttu;4429
+1526;par!si-ttu;-5912
+1527;,,s.5,.(556;-2696
+1528;Validi kommentti;2204
+1529;par!si-ttu;-6385
+1530;Hei, olen kommentti.;-4542
+1531;¤%qwerty,.;-1154
+1532;,,s.5,.(556;3639
+1533;<>!=();-4365
+1534;Validi kommentti;-8022
+1535;¤%qwerty,.;7486
+1536;-.4,56kom-m<entti5;9496
+1537;Hei, olen kommentti.;2744
+1538;Hei, olen kommentti.;773
+1539;<>!=();-9248
+1540;Hei, olen kommentti.;-9298
+1541;par!si-ttu;1609
+1542;<>!=();-3124
+1543;¤%qwerty,.;-9124
+1544;Hei, olen kommentti.;-1871
+1545;,,s.5,.(556;2748
+1546;par!si-ttu;8969
+1547;¤%qwerty,.;-263
+1548;Hei, olen kommentti.;-4446
+1549;,,s.5,.(556;9307
+1550;par!si-ttu;4832
+1551;-.4,56kom-m<entti5;-1773
+1552;<>!=();7714
+1553;par!si-ttu;-2753
+1554;Validi kommentti;-7242
+1555;Validi kommentti;6500
+1556;Validi kommentti;3816
+1557;-.4,56kom-m<entti5;-5644
+1558;-.4,56kom-m<entti5;-3162
+1559;par!si-ttu;-9786
+1560;¤%qwerty,.;-3677
+1561;¤%qwerty,.;3064
+1562;Hei, olen kommentti.;-7961
+1563;¤%qwerty,.;6748
+1564;-.4,56kom-m<entti5;2121
+1565;<>!=();-8187
+1566;-.4,56kom-m<entti5;978
+1567;Hei, olen kommentti.;-5215
+1568;¤%qwerty,.;-5294
+1569;Validi kommentti;-9344
+1570;-.4,56kom-m<entti5;1740
+1571;-.4,56kom-m<entti5;-5432
+1572;Validi kommentti;-5742
+1573;,,s.5,.(556;3225
+1574;,,s.5,.(556;4093
+1575;-.4,56kom-m<entti5;2010
+1576;Hei, olen kommentti.;4254
+1577;<>!=();8328
+1578;par!si-ttu;2149
+1579;Validi kommentti;9724
+1580;-.4,56kom-m<entti5;-9661
+1581;<>!=();-4920
+1582;¤%qwerty,.;2401
+1583;,,s.5,.(556;-9647
+1584;<>!=();-3322
+1585;par!si-ttu;-7502
+1586;¤%qwerty,.;478
+1587;Validi kommentti;4481
+1588;<>!=();-5498
+1589;-.4,56kom-m<entti5;5673
+1590;¤%qwerty,.;7615
+1591;Hei, olen kommentti.;8828
+1592;¤%qwerty,.;-7060
+1593;,,s.5,.(556;1638
+1594;par!si-ttu;-5335
+1595;-.4,56kom-m<entti5;1240
+1596;<>!=();9211
+1597;<>!=();-2079
+1598;¤%qwerty,.;7297
+1599;par!si-ttu;-7402
+1600;par!si-ttu;-8793
+1601;Validi kommentti;-7558
+1602;Validi kommentti;-2053
+1603;Validi kommentti;5533
+1604;<>!=();-3967
+1605;Hei, olen kommentti.;-6465
+1606;-.4,56kom-m<entti5;-2976
+1607;¤%qwerty,.;-5596
+1608;Validi kommentti;7496
+1609;,,s.5,.(556;2410
+1610;par!si-ttu;-4006
+1611;Validi kommentti;5918
+1612;,,s.5,.(556;-4136
+1613;<>!=();-8421
+1614;Hei, olen kommentti.;6366
+1615;<>!=();4337
+1616;Validi kommentti;-2933
+1617;¤%qwerty,.;5653
+1618;Validi kommentti;-9001
+1619;Hei, olen kommentti.;5768
+1620;<>!=();2982
+1621;par!si-ttu;1781
+1622;<>!=();-4837
+1623;par!si-ttu;5601
+1624;¤%qwerty,.;7681
+1625;Hei, olen kommentti.;-9204
+1626;par!si-ttu;6543
+1627;Hei, olen kommentti.;2604
+1628;Validi kommentti;7209
+1629;<>!=();8636
+1630;¤%qwerty,.;6268
+1631;-.4,56kom-m<entti5;1827
+1632;Hei, olen kommentti.;1219
+1633;par!si-ttu;-4450
+1634;,,s.5,.(556;9989
+1635;Hei, olen kommentti.;-4528
+1636;<>!=();-9609
+1637;,,s.5,.(556;-549
+1638;Validi kommentti;6674
+1639;,,s.5,.(556;7988
+1640;Hei, olen kommentti.;-3213
+1641;,,s.5,.(556;-6841
+1642;Hei, olen kommentti.;-498
+1643;par!si-ttu;-8604
+1644;-.4,56kom-m<entti5;2039
+1645;,,s.5,.(556;6208
+1646;Hei, olen kommentti.;-3834
+1647;-.4,56kom-m<entti5;9759
+1648;<>!=();430
+1649;¤%qwerty,.;2052
+1650;Validi kommentti;9373
+1651;Hei, olen kommentti.;1495
+1652;Hei, olen kommentti.;6806
+1653;par!si-ttu;713
+1654;¤%qwerty,.;4390
+1655;Hei, olen kommentti.;4285
+1656;-.4,56kom-m<entti5;-9565
+1657;¤%qwerty,.;-3772
+1658;<>!=();-204
+1659;par!si-ttu;-8081
+1660;<>!=();-4352
+1661;¤%qwerty,.;8199
+1662;¤%qwerty,.;7056
+1663;Hei, olen kommentti.;9208
+1664;-.4,56kom-m<entti5;-8022
+1665;<>!=();-3571
+1666;,,s.5,.(556;2141
+1667;Hei, olen kommentti.;-8010
+1668;par!si-ttu;-9290
+1669;,,s.5,.(556;7124
+1670;-.4,56kom-m<entti5;7696
+1671;Hei, olen kommentti.;-7163
+1672;Hei, olen kommentti.;7912
+1673;Hei, olen kommentti.;423
+1674;,,s.5,.(556;-2306
+1675;<>!=();-3260
+1676;,,s.5,.(556;3080
+1677;par!si-ttu;-1271
+1678;-.4,56kom-m<entti5;3542
+1679;Validi kommentti;-6497
+1680;<>!=();5384
+1681;Hei, olen kommentti.;5787
+1682;,,s.5,.(556;-5492
+1683;¤%qwerty,.;5180
+1684;par!si-ttu;2556
+1685;Validi kommentti;1842
+1686;par!si-ttu;-9838
+1687;¤%qwerty,.;6946
+1688;,,s.5,.(556;-2889
+1689;¤%qwerty,.;-7313
+1690;par!si-ttu;331
+1691;Hei, olen kommentti.;-4161
+1692;-.4,56kom-m<entti5;5973
+1693;,,s.5,.(556;421
+1694;<>!=();4898
+1695;,,s.5,.(556;8518
+1696;,,s.5,.(556;-6387
+1697;,,s.5,.(556;-2515
+1698;Validi kommentti;-3367
+1699;,,s.5,.(556;-6353
+1700;par!si-ttu;382
+1701;Hei, olen kommentti.;4172
+1702;-.4,56kom-m<entti5;592
+1703;<>!=();-4361
+1704;<>!=();5852
+1705;,,s.5,.(556;2605
+1706;,,s.5,.(556;-4370
+1707;,,s.5,.(556;3236
+1708;¤%qwerty,.;2878
+1709;Hei, olen kommentti.;-3917
+1710;-.4,56kom-m<entti5;-9463
+1711;<>!=();5341
+1712;¤%qwerty,.;-85
+1713;-.4,56kom-m<entti5;9257
+1714;Validi kommentti;6633
+1715;,,s.5,.(556;-1393
+1716;Hei, olen kommentti.;-2770
+1717;Hei, olen kommentti.;-7503
+1718;<>!=();-8834
+1719;,,s.5,.(556;-7103
+1720;¤%qwerty,.;-4179
+1721;-.4,56kom-m<entti5;9001
+1722;,,s.5,.(556;-5396
+1723;par!si-ttu;-1245
+1724;,,s.5,.(556;594
+1725;<>!=();-498
+1726;Hei, olen kommentti.;4288
+1727;,,s.5,.(556;-5772
+1728;par!si-ttu;48
+1729;-.4,56kom-m<entti5;9090
+1730;¤%qwerty,.;6001
+1731;¤%qwerty,.;-319
+1732;Hei, olen kommentti.;3158
+1733;¤%qwerty,.;-7944
+1734;¤%qwerty,.;6946
+1735;Hei, olen kommentti.;-3653
+1736;,,s.5,.(556;147
+1737;Hei, olen kommentti.;7367
+1738;¤%qwerty,.;9529
+1739;-.4,56kom-m<entti5;415
+1740;par!si-ttu;2577
+1741;,,s.5,.(556;-589
+1742;,,s.5,.(556;-6446
+1743;par!si-ttu;6847
+1744;¤%qwerty,.;3655
+1745;Validi kommentti;-9767
+1746;Validi kommentti;1562
+1747;Validi kommentti;-4934
+1748;par!si-ttu;1602
+1749;Hei, olen kommentti.;-9412
+1750;Hei, olen kommentti.;8287
+1751;Hei, olen kommentti.;1150
+1752;-.4,56kom-m<entti5;4371
+1753;<>!=();4611
+1754;Hei, olen kommentti.;-3382
+1755;-.4,56kom-m<entti5;4131
+1756;Hei, olen kommentti.;4778
+1757;-.4,56kom-m<entti5;-8247
+1758;Validi kommentti;-48
+1759;<>!=();1661
+1760;¤%qwerty,.;862
+1761;par!si-ttu;-2362
+1762;Validi kommentti;7410
+1763;Hei, olen kommentti.;-6142
+1764;¤%qwerty,.;-9257
+1765;¤%qwerty,.;891
+1766;Hei, olen kommentti.;2447
+1767;par!si-ttu;-1149
+1768;Hei, olen kommentti.;9813
+1769;¤%qwerty,.;941
+1770;Hei, olen kommentti.;-5031
+1771;-.4,56kom-m<entti5;-3561
+1772;-.4,56kom-m<entti5;4133
+1773;<>!=();1687
+1774;<>!=();-3166
+1775;<>!=();4230
+1776;¤%qwerty,.;8685
+1777;Hei, olen kommentti.;9765
+1778;-.4,56kom-m<entti5;-348
+1779;par!si-ttu;4980
+1780;,,s.5,.(556;2799
+1781;Hei, olen kommentti.;1124
+1782;par!si-ttu;3173
+1783;¤%qwerty,.;9813
+1784;Hei, olen kommentti.;8991
+1785;,,s.5,.(556;9610
+1786;,,s.5,.(556;-4395
+1787;¤%qwerty,.;-8584
+1788;-.4,56kom-m<entti5;-6706
+1789;,,s.5,.(556;7330
+1790;par!si-ttu;-8551
+1791;¤%qwerty,.;7820
+1792;<>!=();-2002
+1793;,,s.5,.(556;-8817
+1794;<>!=();-9582
+1795;¤%qwerty,.;9776
+1796;<>!=();-9492
+1797;<>!=();-4971
+1798;Hei, olen kommentti.;-2932
+1799;,,s.5,.(556;-6398
+1800;,,s.5,.(556;-4678
+1
+3419;<>!=();5856
+3420;<>!=();1751
+6501;¤%qwerty,.;8787
+6502;¤%qwerty,.;-4688
+6503;¤%qwerty,.;1408
+6504;<>!=();3433
+6505;,,s.5,.(556;5866
+6506;par!si-ttu;3912
+6507;-.4,56kom-m<entti5;3344
+6508;¤%qwerty,.;-529
+6509;par!si-ttu;3012
+6510;par!si-ttu;-7314
+6511;-.4,56kom-m<entti5;170
+6512;-.4,56kom-m<entti5;1871
+6513;,,s.5,.(556;983
+6514;par!si-ttu;7315
+6515;-.4,56kom-m<entti5;2241
+6516;par!si-ttu;-9934
+6517;Validi kommentti;-5063
+6518;<>!=();7786
+6519;-.4,56kom-m<entti5;-9991
+6520;<>!=();-9503
+6521;par!si-ttu;9899
+6522;<>!=();-2947
+6523;<>!=();-7675
+6524;¤%qwerty,.;-7821
+6525;,,s.5,.(556;9149
+6526;,,s.5,.(556;-5579
+6527;,,s.5,.(556;-5937
+6528;¤%qwerty,.;-5791
+6529;,,s.5,.(556;-2879
+6530;Validi kommentti;-4498
+6531;Hei, olen kommentti.;-4271
+6532;-.4,56kom-m<entti5;-2893
+6533;Validi kommentti;1987
+6534;Validi kommentti;-6069
+6535;¤%qwerty,.;4512
+6536;,,s.5,.(556;7664
+6537;Validi kommentti;-1006
+6538;¤%qwerty,.;-9956
+6539;,,s.5,.(556;-552
+6540;Validi kommentti;917
+6541;par!si-ttu;-6092
+6542;<>!=();4989
+6543;<>!=();7248
+6544;Hei, olen kommentti.;-34
+6545;-.4,56kom-m<entti5;6329
+6546;¤%qwerty,.;-4462
+6547;Validi kommentti;7113
+6548;¤%qwerty,.;2041
+6549;Hei, olen kommentti.;-4417
+6550;par!si-ttu;6378
+6551;par!si-ttu;2929
+6552;<>!=();-6633
+6553;,,s.5,.(556;-7573
+6554;,,s.5,.(556;6485
+6555;¤%qwerty,.;-7839
+6556;,,s.5,.(556;-6743
+6557;par!si-ttu;5276
+6558;,,s.5,.(556;7757
+6559;-.4,56kom-m<entti5;-3164
+6560;-.4,56kom-m<entti5;-7798
+6561;<>!=();-868
+6562;par!si-ttu;-2540
+6563;Validi kommentti;1963
+6564;<>!=();4792
+6565;Hei, olen kommentti.;-7012
+6566;par!si-ttu;-4055
+6567;-.4,56kom-m<entti5;-4818
+6568;,,s.5,.(556;1289
+6569;par!si-ttu;5850
+6570;-.4,56kom-m<entti5;-6794
+6571;<>!=();-9297
+6572;Validi kommentti;7430
+6573;<>!=();-5461
+6574;Hei, olen kommentti.;-5517
+6575;Hei, olen kommentti.;-6784
+6576;,,s.5,.(556;-6312
+6577;Validi kommentti;-2552
+6578;par!si-ttu;-1628
+6579;,,s.5,.(556;-6348
+6580;,,s.5,.(556;1557
+6581;-.4,56kom-m<entti5;8248
+6582;<>!=();-9729
+6583;,,s.5,.(556;5886
+6584;Hei, olen kommentti.;2587
+6585;-.4,56kom-m<entti5;4072
+6586;par!si-ttu;-5819
+6587;Hei, olen kommentti.;-5079
+6588;¤%qwerty,.;-8785
+6589;-.4,56kom-m<entti5;-1428
+6590;¤%qwerty,.;8213
+6591;par!si-ttu;-1334
+6592;¤%qwerty,.;-4582
+6593;,,s.5,.(556;3290
+6594;<>!=();6079
+6595;-.4,56kom-m<entti5;1052
+6596;<>!=();4071
+6597;-.4,56kom-m<entti5;-2577
+6598;-.4,56kom-m<entti5;-2111
+6599;¤%qwerty,.;1780
+6600;Validi kommentti;-7518
+6601;par!si-ttu;9146
+6602;Validi kommentti;-6409
+6603;Validi kommentti;5889
+6604;Validi kommentti;-1019
+6605;-.4,56kom-m<entti5;-3977
+6606;Validi kommentti;-8594
+6607;¤%qwerty,.;-1269
+6608;<>!=();-37
+6609;Validi kommentti;3630
+6610;,,s.5,.(556;-7405
+6611;¤%qwerty,.;-9934
+6612;Hei, olen kommentti.;-4046
+6613;¤%qwerty,.;1890
+6614;<>!=();8817
+6615;<>!=();-1213
+6616;par!si-ttu;-66
+6617;-.4,56kom-m<entti5;-6640
+6618;¤%qwerty,.;372
+6619;Validi kommentti;3952
+6620;par!si-ttu;1365
+6621;,,s.5,.(556;-7574
+6622;<>!=();-4866
+6623;par!si-ttu;-4899
+6624;<>!=();3941
+6625;<>!=();2053
+6626;par!si-ttu;-7199
+6627;<>!=();7995
+6628;Hei, olen kommentti.;-2212
+6629;,,s.5,.(556;-5369
+6630;-.4,56kom-m<entti5;7153
+6631;,,s.5,.(556;-5626
+6632;par!si-ttu;-6432
+6633;¤%qwerty,.;6903
+6634;Hei, olen kommentti.;8722
+6635;,,s.5,.(556;-6657
+6636;-.4,56kom-m<entti5;7870
+6637;Validi kommentti;-5347
+6638;<>!=();4951
+6639;par!si-ttu;-2028
+6640;¤%qwerty,.;9230
+6641;-.4,56kom-m<entti5;-9231
+6642;Hei, olen kommentti.;-2745
+6643;,,s.5,.(556;7825
+6644;Validi kommentti;-7740
+6645;par!si-ttu;-9546
+6646;<>!=();683
+6647;par!si-ttu;907
+6648;Validi kommentti;180
+6649;Validi kommentti;-3114
+665;-.4,56kom-m<entti5;6707
+6651;<>!=();-9786
+6652;,,s.5,.(556;5864
+6653;-.4,56kom-m<entti5;-2384
+6654;<>!=();-1454
+6655;Hei, olen kommentti.;1398
+6656;par!si-ttu;8352
+6657;,,s.5,.(556;-367
+6658;<>!=();-9048
+6659;¤%qwerty,.;-3189
+6660;-.4,56kom-m<entti5;5945
+6661;,,s.5,.(556;9485
+6662;Validi kommentti;7505
+6663;-.4,56kom-m<entti5;4985
+6664;-.4,56kom-m<entti5;9780
+6665;Hei, olen kommentti.;-1493
+6666;,,s.5,.(556;-6695
+6667;,,s.5,.(556;1915
+6668;Hei, olen kommentti.;3905
+6669;-.4,56kom-m<entti5;6794
+6670;,,s.5,.(556;7046
+6671;Validi kommentti;8609
+6672;Hei, olen kommentti.;-8027
+6673;<>!=();-6834
+6674;Validi kommentti;-635
+6675;Validi kommentti;-2496
+6676;Validi kommentti;6713
+6677;Hei, olen kommentti.;3381
+6678;,,s.5,.(556;-4669
+6679;,,s.5,.(556;6052
+6680;-.4,56kom-m<entti5;-6621
+6681;Hei, olen kommentti.;-5544
+6682;-.4,56kom-m<entti5;3678
+6683;¤%qwerty,.;7192
+6684;¤%qwerty,.;2351
+6685;-.4,56kom-m<entti5;241
+6686;<>!=();-5254
+6687;par!si-ttu;-9562
+6688;Hei, olen kommentti.;-7683
+6689;,,s.5,.(556;5956
+6690;Validi kommentti;-2377
+6691;¤%qwerty,.;-747
+6692;-.4,56kom-m<entti5;8125
+6693;-.4,56kom-m<entti5;-760
+6694;par!si-ttu;-2530
+6695;Validi kommentti;-4844
+6696;-.4,56kom-m<entti5;-1340
+6697;par!si-ttu;-6178
+6698;Hei, olen kommentti.;-7987
+6699;-.4,56kom-m<entti5;-2357
+6700;¤%qwerty,.;-7254
+6701;Hei, olen kommentti.;5658
+6702;,,s.5,.(556;-1459
+6703;,,s.5,.(556;5018
+6704;Validi kommentti;757
+6705;¤%qwerty,.;2887
+6706;,,s.5,.(556;756
+6707;par!si-ttu;2729
+6708;<>!=();4560
+6709;,,s.5,.(556;6920
+6710;¤%qwerty,.;913
+6711;Validi kommentti;5756
+6712;par!si-ttu;-8828
+6713;par!si-ttu;-5346
+6714;par!si-ttu;5012
+6715;Hei, olen kommentti.;3693
+6716;Validi kommentti;774
+6717;-.4,56kom-m<entti5;978
+6718;-.4,56kom-m<entti5;-2875
+6719;,,s.5,.(556;9494
+6720;<>!=();-3026
+6721;,,s.5,.(556;-7345
+6722;<>!=();-1472
+6723;par!si-ttu;-3736
+6724;,,s.5,.(556;5780
+6725;par!si-ttu;5996
+6726;par!si-ttu;-3127
+6727;,,s.5,.(556;-5249
+6728;Hei, olen kommentti.;-4366
+6729;Validi kommentti;-5083
+6730;,,s.5,.(556;-800
+6731;<>!=();-4640
+6732;Hei, olen kommentti.;-2014
+6733;,,s.5,.(556;-9291
+6734;,,s.5,.(556;-4796
+6735;par!si-ttu;7348
+6736;Validi kommentti;3274
+6737;,,s.5,.(556;2285
+6738;¤%qwerty,.;3854
+6739;,,s.5,.(556;-9950
+6740;<>!=();-8180
+6741;-.4,56kom-m<entti5;6917
+6742;Validi kommentti;4552
+6743;par!si-ttu;-5095
+6744;Hei, olen kommentti.;620
+6745;-.4,56kom-m<entti5;-5500
+6746;Validi kommentti;1797
+6747;Hei, olen kommentti.;-9496
+6748;Hei, olen kommentti.;-8485
+6749;par!si-ttu;-3418
+6750;-.4,56kom-m<entti5;-7005
+6751;Hei, olen kommentti.;6904
+6752;Validi kommentti;7172
+6753;,,s.5,.(556;457
+6754;-.4,56kom-m<entti5;-9620
+6755;<>!=();1090
+6756;Hei, olen kommentti.;-517
+6757;¤%qwerty,.;2461
+6758;par!si-ttu;-7524
+6759;¤%qwerty,.;629
+6760;Validi kommentti;-3466
+6761;Validi kommentti;-9536
+6762;-.4,56kom-m<entti5;7648
+6763;Hei, olen kommentti.;-832
+6764;¤%qwerty,.;2729
+6765;par!si-ttu;6306
+6766;<>!=();6838
+6767;par!si-ttu;-7496
+6768;-.4,56kom-m<entti5;-4295
+6769;,,s.5,.(556;-9800
+6770;par!si-ttu;6873
+6771;-.4,56kom-m<entti5;8375
+6772;Hei, olen kommentti.;-8200
+6773;¤%qwerty,.;9609
+6774;Hei, olen kommentti.;-8870
+6775;-.4,56kom-m<entti5;4606
+6776;Hei, olen kommentti.;1094
+6777;¤%qwerty,.;4898
+6778;par!si-ttu;8475
+6779;<>!=();-9496
+6780;Hei, olen kommentti.;7464
+6781;Hei, olen kommentti.;4849
+6782;,,s.5,.(556;-9513
+6783;,,s.5,.(556;8814
+6784;Validi kommentti;-5979
+6785;,,s.5,.(556;-7989
+6786;,,s.5,.(556;9573
+6787;¤%qwerty,.;3176
+6788;Validi kommentti;2700
+6789;par!si-ttu;-6478
+6790;Validi kommentti;-928
+6791;-.4,56kom-m<entti5;-64
+6792;-.4,56kom-m<entti5;5369
+6793;par!si-ttu;-7401
+6794;-.4,56kom-m<entti5;1981
+6795;Hei, olen kommentti.;-8192
+6796;-.4,56kom-m<entti5;864
+6797;Validi kommentti;6979
+6798;Validi kommentti;-5008
+6799;par!si-ttu;9750
+6800;<>!=();-972
+6801;<>!=();7222
+6802;Validi kommentti;7286
+6803;¤%qwerty,.;3722
+6804;,,s.5,.(556;-9659
+6805;-.4,56kom-m<entti5;-1074
+6806;<>!=();9768
+6807;,,s.5,.(556;-8032
+6808;Hei, olen kommentti.;-5695
+6809;¤%qwerty,.;8518
+6810;¤%qwerty,.;2536
+6811;<>!=();2431
+6812;<>!=();-5709
+6813;<>!=();-556
+6814;Validi kommentti;9033
+6815;,,s.5,.(556;-6493
+6816;par!si-ttu;8991
+6817;-.4,56kom-m<entti5;5127
+6818;-.4,56kom-m<entti5;6240
+6819;¤%qwerty,.;-7997
+6820;Validi kommentti;7970
+6821;Hei, olen kommentti.;6898
+6822;Validi kommentti;-64
+6823;,,s.5,.(556;7499
+6824;-.4,56kom-m<entti5;7436
+6825;<>!=();182
+6826;<>!=();7191
+6827;par!si-ttu;-6975
+6828;,,s.5,.(556;2070
+6829;par!si-ttu;5086
+6830;Hei, olen kommentti.;-3202
+6831;par!si-ttu;-7753
+6832;,,s.5,.(556;2613
+6833;-.4,56kom-m<entti5;5709
+6834;-.4,56kom-m<entti5;9552
+6835;Hei, olen kommentti.;-3479
+6836;<>!=();-3524
+6837;,,s.5,.(556;-3578
+6838;,,s.5,.(556;-5739
+6839;¤%qwerty,.;8653
+6840;¤%qwerty,.;2953
+6841;,,s.5,.(556;-5874
+6842;par!si-ttu;-2784
+6843;par!si-ttu;-7672
+6844;Validi kommentti;-3855
+6845;-.4,56kom-m<entti5;5177
+6846;¤%qwerty,.;-8210
+6847;Validi kommentti;-3092
+6848;<>!=();9204
+6849;<>!=();-6402
+6850;Validi kommentti;8765
+6851;Validi kommentti;5977
+6852;-.4,56kom-m<entti5;-2522
+6853;Validi kommentti;-7874
+6854;,,s.5,.(556;-337
+6855;,,s.5,.(556;4321
+6856;-.4,56kom-m<entti5;-9750
+6857;¤%qwerty,.;-8616
+6858;Validi kommentti;3644
+6859;¤%qwerty,.;842
+6860;<>!=();2358
+6861;-.4,56kom-m<entti5;3012
+6862;<>!=();-1356
+6863;-.4,56kom-m<entti5;4579
+6864;,,s.5,.(556;-4592
+6865;<>!=();-3121
+6866;¤%qwerty,.;5630
+6867;par!si-ttu;-7215
+6868;Validi kommentti;-6177
+6869;Validi kommentti;7176
+6870;Hei, olen kommentti.;-1142
+6871;¤%qwerty,.;-587
+6872;Validi kommentti;4285
+6873;<>!=();8183
+6874;¤%qwerty,.;7549
+6875;-.4,56kom-m<entti5;7287
+6876;-.4,56kom-m<entti5;-304
+6877;,,s.5,.(556;5473
+6878;<>!=();6656
+6879;-.4,56kom-m<entti5;-5760
+6880;Hei, olen kommentti.;1283
+6881;<>!=();5787
+6882;,,s.5,.(556;-9374
+6883;¤%qwerty,.;-2555
+6884;Validi kommentti;7985
+6885;-.4,56kom-m<entti5;6507
+6886;<>!=();-8100
+6887;<>!=();-1154
+6888;Hei, olen kommentti.;-4843
+6889;par!si-ttu;7435
+6890;Hei, olen kommentti.;-3342
+6891;¤%qwerty,.;-9393
+6892;¤%qwerty,.;6665
+6893;Hei, olen kommentti.;23
+6894;par!si-ttu;395
+6895;Hei, olen kommentti.;-2396
+6896;,,s.5,.(556;2772
+6897;Validi kommentti;240
+6898;,,s.5,.(556;-636
+6899;¤%qwerty,.;-7368
+6900;Hei, olen kommentti.;-7754
+6901;par!si-ttu;-2882
+6902;Validi kommentti;7641
+6903;-.4,56kom-m<entti5;-9484
+6904;par!si-ttu;-9684
+6905;-.4,56kom-m<entti5;-8523
+6906;<>!=();1610
+6907;-.4,56kom-m<entti5;7782
+6908;,,s.5,.(556;-3066
+6909;Validi kommentti;2801
+6910;<>!=();-2024
+6911;<>!=();1986
+6912;<>!=();1555
+6913;¤%qwerty,.;-9998
+6914;-.4,56kom-m<entti5;-2472
+6915;par!si-ttu;-377
+6916;Validi kommentti;-939
+6917;Hei, olen kommentti.;1632
+6918;¤%qwerty,.;-2648
+6919;Hei, olen kommentti.;-7023
+6920;<>!=();626
+6921;,,s.5,.(556;-618
+6922;Validi kommentti;9091
+6923;<>!=();-5352
+6924;Hei, olen kommentti.;-1089
+6925;Validi kommentti;9250
+6926;¤%qwerty,.;5893
+6927;Hei, olen kommentti.;-4386
+6928;Validi kommentti;-7780
+6929;¤%qwerty,.;-1622
+6930;par!si-ttu;-8448
+6931;,,s.5,.(556;-1707
+6932;-.4,56kom-m<entti5;-5716
+6933;-.4,56kom-m<entti5;2651
+6934;Hei, olen kommentti.;1481
+6935;par!si-ttu;-8619
+6936;<>!=();-404
+6937;<>!=();-6064
+6938;par!si-ttu;4051
+6939;Hei, olen kommentti.;-487
+6940;<>!=();2201
+6941;Validi kommentti;-5677
+6942;Validi kommentti;-5117
+6943;par!si-ttu;-2901
+6944;par!si-ttu;-6035
+6945;Hei, olen kommentti.;3365
+6946;Hei, olen kommentti.;7448
+6947;Hei, olen kommentti.;3378
+6948;Hei, olen kommentti.;6821
+6949;par!si-ttu;2380
+6950;par!si-ttu;5559
+6951;par!si-ttu;9835
+6952;¤%qwerty,.;4108
+6953;,,s.5,.(556;8431
+6954;<>!=();-8197
+6955;Hei, olen kommentti.;-4321
+6956;Hei, olen kommentti.;-8559
+6957;par!si-ttu;-3753
+6958;Hei, olen kommentti.;-384
+6959;par!si-ttu;9116
+6960;,,s.5,.(556;3502
+6961;<>!=();5977
+6962;¤%qwerty,.;-1463
+6963;,,s.5,.(556;-764
+6964;,,s.5,.(556;5380
+6965;par!si-ttu;9203
+6966;Validi kommentti;5106
+6967;<>!=();8449
+6968;-.4,56kom-m<entti5;-3594
+6969;¤%qwerty,.;76
+6970;<>!=();7973
+6971;¤%qwerty,.;8345
+6972;,,s.5,.(556;-8041
+6973;,,s.5,.(556;5765
+6974;,,s.5,.(556;5661
+6975;par!si-ttu;-9609
+6976;<>!=();-5113
+6977;par!si-ttu;8637
+6978;-.4,56kom-m<entti5;-4972
+6979;par!si-ttu;7021
+6980;Hei, olen kommentti.;-8077
+6981;Validi kommentti;2730
+6982;¤%qwerty,.;5317
+6983;,,s.5,.(556;-2930
+6984;Validi kommentti;-7875
+6985;<>!=();-2119
+6986;¤%qwerty,.;3683
+6987;par!si-ttu;9835
+6988;,,s.5,.(556;7210
+6989;¤%qwerty,.;8467
+6990;par!si-ttu;6873
+6991;par!si-ttu;-7859
+6992;-.4,56kom-m<entti5;-2593
+6993;-.4,56kom-m<entti5;4860
+6994;,,s.5,.(556;-7110
+6995;-.4,56kom-m<entti5;-2917
+6996;<>!=();-7778
+6997;Validi kommentti;-8756
+6998;Validi kommentti;1084
+6999;¤%qwerty,.;-2894
+7000;Hei, olen kommentti.;3103
+7001;<>!=();1733
+7002;Hei, olen kommentti.;5348
+7003;,,s.5,.(556;713
+7004;-.4,56kom-m<entti5;-5337
+7005;par!si-ttu;4387
+7006;-.4,56kom-m<entti5;-942
+7007;<>!=();381
+7008;<>!=();-2258
+7009;¤%qwerty,.;-2960
+7010;Hei, olen kommentti.;-4870
+7011;par!si-ttu;-4083
+7012;¤%qwerty,.;4529
+7013;Hei, olen kommentti.;-9629
+7014;<>!=();-7536
+7015;¤%qwerty,.;-9887
+7016;Validi kommentti;700
+7017;,,s.5,.(556;-7274
+7018;-.4,56kom-m<entti5;9415
+7019;<>!=();-2233
+7020;Validi kommentti;845
+7021;Validi kommentti;3684
+7022;,,s.5,.(556;-4494
+7023;¤%qwerty,.;9533
+7024;¤%qwerty,.;-7290
+7025;,,s.5,.(556;-297
+7026;,,s.5,.(556;8393
+7027;¤%qwerty,.;-4871
+7028;Hei, olen kommentti.;-8417
+7029;-.4,56kom-m<entti5;-4918
+7030;Hei, olen kommentti.;-8376
+7031;Validi kommentti;-1209
+7032;,,s.5,.(556;-5901
+7033;<>!=();1318
+7034;<>!=();3945
+7035;par!si-ttu;8480
+7036;par!si-ttu;-8670
+7037;Validi kommentti;7578
+7038;<>!=();748
+7039;par!si-ttu;-1079
+7040;Validi kommentti;-168
+7041;Validi kommentti;-4745
+7042;Validi kommentti;2953
+7043;Hei, olen kommentti.;9851
+7044;¤%qwerty,.;6090
+7045;<>!=();-9004
+7046;par!si-ttu;1670
+7047;,,s.5,.(556;9821
+7048;¤%qwerty,.;-954
+7049;-.4,56kom-m<entti5;8271
+7050;¤%qwerty,.;-670
+7051;Validi kommentti;4995
+7052;<>!=();-6800
+7053;¤%qwerty,.;-6684
+7054;-.4,56kom-m<entti5;8628
+7055;-.4,56kom-m<entti5;9631
+7056;Hei, olen kommentti.;-8205
+7057;Validi kommentti;-4318
+7058;Validi kommentti;7717
+7059;Validi kommentti;3302
+7060;-.4,56kom-m<entti5;-6383
+7061;Hei, olen kommentti.;-4482
+7062;par!si-ttu;3702
+7063;Hei, olen kommentti.;342
+7064;,,s.5,.(556;3788
+7065;,,s.5,.(556;-6547
+7066;¤%qwerty,.;8250
+7067;Hei, olen kommentti.;-1280
+7068;¤%qwerty,.;-434
+7069;Hei, olen kommentti.;-8999
+7070;-.4,56kom-m<entti5;1161
+7071;par!si-ttu;-7550
+7072;Validi kommentti;5321
+7073;¤%qwerty,.;-2472
+7074;¤%qwerty,.;818
+7075;Validi kommentti;2828
+7076;Validi kommentti;4390
+7077;-.4,56kom-m<entti5;-5329
+7078;Hei, olen kommentti.;-3998
+7079;Validi kommentti;1238
+7080;,,s.5,.(556;8988
+7081;,,s.5,.(556;1364
+7082;-.4,56kom-m<entti5;295
+7083;¤%qwerty,.;815
+7084;<>!=();-3842
+7085;¤%qwerty,.;-1125
+7086;,,s.5,.(556;-802
+7087;-.4,56kom-m<entti5;-2262
+7088;<>!=();-1771
+7089;,,s.5,.(556;7534
+7090;Hei, olen kommentti.;-8285
+7091;<>!=();-5771
+7092;par!si-ttu;9513
+7093;<>!=();4578
+7094;Validi kommentti;-8691
+7095;Validi kommentti;-9910
+7096;<>!=();-7231
+7097;¤%qwerty,.;-8719
+7098;Validi kommentti;-9827
+7099;,,s.5,.(556;-8346
+7100;¤%qwerty,.;-8556
+7101;,,s.5,.(556;684
+7102;par!si-ttu;-5168
+7103;-.4,56kom-m<entti5;-9096
+7104;-.4,56kom-m<entti5;-6653
+7105;¤%qwerty,.;4031
+7106;¤%qwerty,.;-7
+7107;Hei, olen kommentti.;-5204
+7108;<>!=();-1140
+7109;¤%qwerty,.;7995
+7110;<>!=();5089
+7111;¤%qwerty,.;8959
+7112;Validi kommentti;2765
+7113;<>!=();-938
+7114;-.4,56kom-m<entti5;-7354
+7115;par!si-ttu;2424
+7116;par!si-ttu;2074
+7117;Hei, olen kommentti.;-1926
+7118;par!si-ttu;-5205
+7119;Hei, olen kommentti.;1780
+7120;Hei, olen kommentti.;1122
+7121;,,s.5,.(556;-7876
+7122;par!si-ttu;552
+7123;¤%qwerty,.;-9781
+7124;Validi kommentti;-8949
+7125;¤%qwerty,.;7229
+7126;-.4,56kom-m<entti5;5805
+7127;¤%qwerty,.;-9649
+7128;<>!=();-3286
+7129;¤%qwerty,.;-4034
+7130;,,s.5,.(556;-4326
+7131;<>!=();1063
+7132;-.4,56kom-m<entti5;-3182
+7133;<>!=();-7709
+7134;Validi kommentti;8012
+7135;Hei, olen kommentti.;-1487
+7136;,,s.5,.(556;-9156
+7137;<>!=();-6714
+7138;-.4,56kom-m<entti5;-3727
+7139;par!si-ttu;-6487
+7140;,,s.5,.(556;7727
+7141;-.4,56kom-m<entti5;-5967
+7142;,,s.5,.(556;-2489
+7143;Hei, olen kommentti.;-8069
+7144;par!si-ttu;-8011
+7145;¤%qwerty,.;-5120
+7146;<>!=();468
+7147;Validi kommentti;-8646
+7148;Validi kommentti;-4936
+7149;Hei, olen kommentti.;-195
+7150;<>!=();-6579
+7151;par!si-ttu;7212
+7152;,,s.5,.(556;-4225
+7153;Validi kommentti;-2873
+7154;par!si-ttu;5565
+7155;¤%qwerty,.;6134
+7156;¤%qwerty,.;-156
+7157;Hei, olen kommentti.;2594
+7158;¤%qwerty,.;8413
+7159;Hei, olen kommentti.;1153
+7160;,,s.5,.(556;3063
+7161;<>!=();2311
+7162;Hei, olen kommentti.;-9811
+7163;<>!=();-1319
+7164;-.4,56kom-m<entti5;8641
+7165;<>!=();-365
+7166;¤%qwerty,.;1468
+7167;Hei, olen kommentti.;-242
+7168;Hei, olen kommentti.;-8712
+7169;¤%qwerty,.;706
+7170;,,s.5,.(556;-3033
+7171;Hei, olen kommentti.;7758
+7172;Validi kommentti;-5984
+7173;-.4,56kom-m<entti5;9661
+7174;Hei, olen kommentti.;-7477
+7175;par!si-ttu;-2653
+7176;-.4,56kom-m<entti5;-8772
+7177;<>!=();1336
+7178;par!si-ttu;2875
+7179;<>!=();-3128
+7180;Validi kommentti;-6695
+7181;Validi kommentti;2989
+7182;Validi kommentti;-2978
+7183;par!si-ttu;-989
+7184;-.4,56kom-m<entti5;8961
+7185;,,s.5,.(556;-1340
+7186;,,s.5,.(556;-8916
+7187;par!si-ttu;1678
+7188;-.4,56kom-m<entti5;-2111
+7189;¤%qwerty,.;4044
+7190;Validi kommentti;-5690
+7191;-.4,56kom-m<entti5;956
+7192;Hei, olen kommentti.;3578
+7193;<>!=();-4381
+7194;¤%qwerty,.;-9595
+7195;-.4,56kom-m<entti5;6063
+7196;<>!=();-7334
+7197;<>!=();-1808
+7198;-.4,56kom-m<entti5;6339
+7199;par!si-ttu;926
+7200;par!si-ttu;-3678
+7201;-.4,56kom-m<entti5;-8672
+7202;Hei, olen kommentti.;7339
+7203;,,s.5,.(556;-6626
+7204;Hei, olen kommentti.;1443
+7205;par!si-ttu;9118
+7206;<>!=();-9739
+7207;Hei, olen kommentti.;4522
+7208;,,s.5,.(556;5959
+7209;par!si-ttu;9942
+7210;Hei, olen kommentti.;8105
+7211;par!si-ttu;5162
+7212;-.4,56kom-m<entti5;2127
+7213;Validi kommentti;6649
+7214;Validi kommentti;2049
+7215;,,s.5,.(556;3703
+7216;Hei, olen kommentti.;1087
+7217;,,s.5,.(556;9369
+7218;<>!=();424
+7219;par!si-ttu;-7578
+7220;¤%qwerty,.;8774
+7221;¤%qwerty,.;6620
+7222;Hei, olen kommentti.;-5901
+7223;,,s.5,.(556;-6854
+7224;<>!=();2404
+7225;¤%qwerty,.;-1215
+7226;-.4,56kom-m<entti5;3599
+7227;-.4,56kom-m<entti5;-5003
+7228;Validi kommentti;2265
+7229;Hei, olen kommentti.;9108
+7230;,,s.5,.(556;-6363
+7231;¤%qwerty,.;3271
+7232;Validi kommentti;-6448
+7233;-.4,56kom-m<entti5;697
+7234;,,s.5,.(556;-4786
+7235;Hei, olen kommentti.;-4850
+7236;,,s.5,.(556;-4555
+7237;Hei, olen kommentti.;-739
+7238;Hei, olen kommentti.;8688
+7239;par!si-ttu;-2995
+7240;par!si-ttu;8270
+7241;-.4,56kom-m<entti5;5620
+7242;<>!=();4594
+7243;,,s.5,.(556;-3606
+7244;¤%qwerty,.;-958
+7245;Hei, olen kommentti.;1934
+7246;<>!=();2217
+7247;Validi kommentti;6914
+7248;-.4,56kom-m<entti5;7090
+7249;-.4,56kom-m<entti5;-9273
+7250;Hei, olen kommentti.;-5775
+7251;¤%qwerty,.;6854
+7252;,,s.5,.(556;9829
+7253;¤%qwerty,.;4128
+7254;,,s.5,.(556;-4655
+7255;-.4,56kom-m<entti5;7685
+7256;¤%qwerty,.;7777
+7257;,,s.5,.(556;-8389
+7258;Validi kommentti;-9610
+9469;Hei, olen kommentti.;6271
+9470;Hei, olen kommentti.;-9332
+9471;Validi kommentti;7119
+9472;¤%qwerty,.;-6492
+9473;par!si-ttu;7080
+9474;Hei, olen kommentti.;-290
+9475;Validi kommentti;-365
+9476;,,s.5,.(556;9923
+9477;-.4,56kom-m<entti5;8400
+9478;par!si-ttu;-291
+9479;<>!=();-3160
+9480;par!si-ttu;8572
+9481;Validi kommentti;9503
+9482;¤%qwerty,.;4405
+9483;par!si-ttu;1574
+9484;-.4,56kom-m<entti5;3110
+9485;Validi kommentti;-3625
+9486;¤%qwerty,.;-2153
+9487;Validi kommentti;-6633
+9488;<>!=();-1094
+9489;¤%qwerty,.;-2409
+9490;par!si-ttu;-5698
+9491;-.4,56kom-m<entti5;114
+9492;Hei, olen kommentti.;4621
+9493;Hei, olen kommentti.;-7103
+9494;Validi kommentti;6967
+9495;Validi kommentti;1469
+9496;Validi kommentti;8776
+9497;Hei, olen kommentti.;4378
+9498;Validi kommentti;367
+9499;par!si-ttu;289
+9500;par!si-ttu;-7760
+9501;,,s.5,.(556;-1307
+9502;Hei, olen kommentti.;1516
+9503;,,s.5,.(556;-2459
+9504;<>!=();-7905
+9505;par!si-ttu;-2639
+9506;-.4,56kom-m<entti5;2401
+9507;,,s.5,.(556;9380
+9508;,,s.5,.(556;448
+9509;<>!=();3342
+9510;Validi kommentti;-686
+9511;Validi kommentti;-6609
+9512;Validi kommentti;-517
+9513;<>!=();-5968
+9514;Validi kommentti;-2980
+9515;Validi kommentti;-5344
+9516;Hei, olen kommentti.;-3170
+9517;Hei, olen kommentti.;-2465
+9518;par!si-ttu;-1486
+9519;par!si-ttu;8369
+9520;¤%qwerty,.;1628
+9521;par!si-ttu;5949
+9522;Validi kommentti;7252
+9523;Validi kommentti;2814
+9524;,,s.5,.(556;-1425
+9525;-.4,56kom-m<entti5;-6280
+9526;Validi kommentti;-838
+9527;<>!=();360
+9528;<>!=();8638
+9529;<>!=();5320
+9530;Validi kommentti;-4731
+9531;,,s.5,.(556;-5404
+9532;¤%qwerty,.;6495
+9533;-.4,56kom-m<entti5;2407
+9534;<>!=();-1387
+9535;-.4,56kom-m<entti5;1222
+9536;Hei, olen kommentti.;5913
+9537;,,s.5,.(556;-3529
+9538;<>!=();-7101
+9539;,,s.5,.(556;3763
+9540;-.4,56kom-m<entti5;2170
+9541;-.4,56kom-m<entti5;-8951
+9542;Validi kommentti;3497
+9543;Hei, olen kommentti.;5798
+9544;-.4,56kom-m<entti5;2956
+9545;Validi kommentti;-6306
+9546;Validi kommentti;8644
+9547;<>!=();-4408
+9548;Hei, olen kommentti.;-1838
+9549;¤%qwerty,.;2322
+9550;-.4,56kom-m<entti5;-5737
+9551;¤%qwerty,.;-7358
+9552;,,s.5,.(556;-8360
+9553;Hei, olen kommentti.;1655
+9554;Hei, olen kommentti.;-4563
+9555;¤%qwerty,.;5708
+9556;¤%qwerty,.;-5199
+9557;Hei, olen kommentti.;1349
+9558;,,s.5,.(556;-700
+9559;,,s.5,.(556;-4418
+9560;,,s.5,.(556;2089
+9561;,,s.5,.(556;3635
+9562;¤%qwerty,.;-1430
+9563;¤%qwerty,.;5211
+9564;¤%qwerty,.;-3290
+9565;par!si-ttu;-60
+9566;par!si-ttu;-1756
+9567;Validi kommentti;-9316
+9568;¤%qwerty,.;-3320
+9569;¤%qwerty,.;4701
+9570;<>!=();-829
+9571;¤%qwerty,.;-7576
+9572;Hei, olen kommentti.;-4241
+9573;¤%qwerty,.;-1132
+9574;<>!=();4891
+9575;Hei, olen kommentti.;5617
+9576;par!si-ttu;9495
+9577;Hei, olen kommentti.;9373
+9578;Validi kommentti;7440
+9579;¤%qwerty,.;4266
+9580;par!si-ttu;-2531
+9581;,,s.5,.(556;-2464
+9582;,,s.5,.(556;-5491
+9583;Validi kommentti;5244
+9584;,,s.5,.(556;-601
+9585;¤%qwerty,.;1237
+9586;par!si-ttu;-4888
+9587;¤%qwerty,.;3157
+9588;¤%qwerty,.;-8382
+9589;¤%qwerty,.;-8505
+9590;par!si-ttu;4024
+9591;<>!=();-7926
+9592;Hei, olen kommentti.;-4899
+9593;Hei, olen kommentti.;3720
+9594;-.4,56kom-m<entti5;9536
+9595;par!si-ttu;8368
+9596;,,s.5,.(556;-7455
+9597;par!si-ttu;9322
+9598;¤%qwerty,.;4420
+9599;Hei, olen kommentti.;1496
+9600;Hei, olen kommentti.;8618
+9601;-.4,56kom-m<entti5;-1140
+9602;-.4,56kom-m<entti5;-5514
+9603;-.4,56kom-m<entti5;-9042
+9604;-.4,56kom-m<entti5;3404
+9605;¤%qwerty,.;-5434
+9606;<>!=();-8588
+9607;¤%qwerty,.;-459
+9608;,,s.5,.(556;-2924
+9609;,,s.5,.(556;-7313
+9610;<>!=();1184
+9611;¤%qwerty,.;-2004
+9612;-.4,56kom-m<entti5;-7095
+9613;par!si-ttu;-5178
+9614;Hei, olen kommentti.;-6736
+9615;<>!=();357
+9616;,,s.5,.(556;-2712
+9617;Validi kommentti;-52
+9618;-.4,56kom-m<entti5;986
+9619;Hei, olen kommentti.;-2185
+9620;<>!=();-2742
+9621;¤%qwerty,.;5764
+9622;¤%qwerty,.;-4692
+9623;¤%qwerty,.;2677
+9624;par!si-ttu;-3628
+9625;-.4,56kom-m<entti5;1425
+9626;,,s.5,.(556;5251
+9627;-.4,56kom-m<entti5;-9672
+9628;Validi kommentti;8319
+9629;par!si-ttu;4360
+9630;Validi kommentti;7930
+9631;<>!=();4715
+9632;,,s.5,.(556;2460
+9633;<>!=();3320
+9634;par!si-ttu;-3813
+9635;par!si-ttu;6852
+9636;<>!=();4426
+9637;¤%qwerty,.;-1783
+9638;,,s.5,.(556;6275
+9639;<>!=();-3848
+9640;-.4,56kom-m<entti5;-332
+9641;par!si-ttu;-6880
+9642;,,s.5,.(556;-5740
+9643;Hei, olen kommentti.;5952
+9644;Validi kommentti;-2227
+9645;Validi kommentti;-7892
+9646;par!si-ttu;1941
+9647;¤%qwerty,.;-2447
+9648;Hei, olen kommentti.;31
+9649;<>!=();-2259
+9650;-.4,56kom-m<entti5;1238
+9651;Validi kommentti;70
+9652;,,s.5,.(556;828
+9653;Validi kommentti;8024
+9654;<>!=();-1812
+9655;Hei, olen kommentti.;3169
+9656;par!si-ttu;7696
+9657;Validi kommentti;-3611
+9658;Hei, olen kommentti.;4374
+9659;,,s.5,.(556;-3299
+9660;Validi kommentti;-2938
+9661;,,s.5,.(556;9546
+9662;<>!=();5959
+9663;Hei, olen kommentti.;5343
+9664;<>!=();5834
+9665;par!si-ttu;-1874
+9666;¤%qwerty,.;5776
+9667;par!si-ttu;7267
+9668;Validi kommentti;-4092
+9669;Hei, olen kommentti.;-6453
+9670;par!si-ttu;-8494
+9671;Validi kommentti;7146
+9672;Hei, olen kommentti.;3976
+9673;-.4,56kom-m<entti5;-3456
+9674;<>!=();-4440
+9675;,,s.5,.(556;7093
+9676;Validi kommentti;-5360
+9677;-.4,56kom-m<entti5;-1924
+9678;-.4,56kom-m<entti5;-6283
+9679;-.4,56kom-m<entti5;-1522
+9680;,,s.5,.(556;-8780
+9681;<>!=();7690
+9682;,,s.5,.(556;-5850
+9683;Validi kommentti;-5453
+9684;<>!=();974
+9685;Validi kommentti;-122
+9686;par!si-ttu;-5884
+9687;Validi kommentti;-9693
+9688;,,s.5,.(556;8909
+9689;-.4,56kom-m<entti5;3504
+9690;Validi kommentti;-9023
+9691;,,s.5,.(556;827
+9692;par!si-ttu;8190
+9693;Validi kommentti;5344
+9694;¤%qwerty,.;290
+9695;Hei, olen kommentti.;-9706
+9696;Validi kommentti;3104
+9697;,,s.5,.(556;-7725
+9698;-.4,56kom-m<entti5;9959
+9699;Validi kommentti;4935
+9700;,,s.5,.(556;77
+9701;Hei, olen kommentti.;-6469
+9702;¤%qwerty,.;4370
+9703;,,s.5,.(556;1732
+9704;¤%qwerty,.;9342
+9705;<>!=();-3478
+9706;Validi kommentti;-4475
+9707;,,s.5,.(556;8385
+9708;¤%qwerty,.;-8508
+9709;¤%qwerty,.;-7218
+9710;¤%qwerty,.;-8422
+9711;-.4,56kom-m<entti5;2043
+9712;-.4,56kom-m<entti5;8578
+;;
+;
+;;;
+9713;par!si-ttu;-5024
+9714;Hei, olen kommentti.;7108
+9715;-.4,56kom-m<entti5;2559
+9716;Hei, olen kommentti.;-1307
+9717;¤%qwerty,.;9400
+9718;,,s.5,.(556;5322
+9719;Validi kommentti;5967
+9720;<>!=();4596
+9721;par!si-ttu;-9859
+9722;¤%qwerty,.;-7389
+9723;,,s.5,.(556;-8113
+9724;Hei, olen kommentti.;771
+9725;,,s.5,.(556;5729
+9726;-.4,56kom-m<entti5;-7935
+9727;Hei, olen kommentti.;8404
+9728;<>!=();1143
+9729;Hei, olen kommentti.;-4784
+9730;<>!=();-6038
+9731;Validi kommentti;704
+9732;<>!=();-8290
+9733;,,s.5,.(556;-8153
+9734;Validi kommentti;-8666
+9735;-.4,56kom-m<entti5;121
+9736;par!si-ttu;-3989
+9737;¤%qwerty,.;-5796
+9738;-.4,56kom-m<entti5;7219
+9739;Validi kommentti;-6503
+9740;Validi kommentti;-4573
+9741;Validi kommentti;4039
+9742;¤%qwerty,.;2380
+9743;,,s.5,.(556;1689
+9744;Validi kommentti;7037
+9745;<>!=();7046
+9746;<>!=();4080
+9747;<>!=();715
+9748;<>!=();204
+9749;<>!=();-4813
+9750;<>!=();8402
+9751;-.4,56kom-m<entti5;3181
+9752;Hei, olen kommentti.;-181
+9753;Validi kommentti;-7770
+9754;Hei, olen kommentti.;-7559
+9755;Validi kommentti;79
+9756;-.4,56kom-m<entti5;-510
+9757;Hei, olen kommentti.;4613
+9758;<>!=();6158
+9759;-.4,56kom-m<entti5;7608
+9760;,,s.5,.(556;-1593
+9761;Hei, olen kommentti.;2036
+9762;-.4,56kom-m<entti5;9795
+9763;Hei, olen kommentti.;9143
+9764;Validi kommentti;7134
+9765;¤%qwerty,.;-1050
+9766;<>!=();-516
+9767;<>!=();-2709
+9768;<>!=();-624
+9769;Hei, olen kommentti.;1543
+9770;-.4,56kom-m<entti5;-3538
+9771;-.4,56kom-m<entti5;-5964
+9772;<>!=();1997
+9773;¤%qwerty,.;-1710
+9774;Validi kommentti;3219
+9775;¤%qwerty,.;-1827
+9776;¤%qwerty,.;253
+9777;,,s.5,.(556;3436
+9778;par!si-ttu;3186
+9779;Hei, olen kommentti.;-6732
+9780;Validi kommentti;676
+9781;Hei, olen kommentti.;-1596
+9782;-.4,56kom-m<entti5;7627
+9783;¤%qwerty,.;7753
+9784;Hei, olen kommentti.;-790
+9785;par!si-ttu;-9348
+9786;¤%qwerty,.;-2699
+9787;par!si-ttu;5014
+9788;,,s.5,.(556;143
+9789;Hei, olen kommentti.;-4590
+9790;,,s.5,.(556;-3267
+9791;par!si-ttu;-6578
+9792;par!si-ttu;1608
+9793;-.4,56kom-m<entti5;-2387
+9794;-.4,56kom-m<entti5;-9988
+9795;Hei, olen kommentti.;3111
+9796;,,s.5,.(556;112
+9797;Hei, olen kommentti.;969
+9798;-.4,56kom-m<entti5;-2445
+9799;<>!=();8281
+9800;Validi kommentti;1739
+9801;par!si-ttu;-5669
+9802;-.4,56kom-m<entti5;7358
+9803;-.4,56kom-m<entti5;7109
+9804;,,s.5,.(556;5734
+9805;par!si-ttu;913
+9806;-.4,56kom-m<entti5;-4503
+9807;,,s.5,.(556;-4504
+9808;-.4,56kom-m<entti5;5545
+9809;Validi kommentti;-4431
+9810;¤%qwerty,.;-3489
+9811;-.4,56kom-m<entti5;-1753
+9812;,,s.5,.(556;-5044
+9813;Hei, olen kommentti.;-7962
+9814;¤%qwerty,.;5863
+9815;Validi kommentti;3583
+9816;par!si-ttu;-3107
+9817;¤%qwerty,.;5901
+9818;-.4,56kom-m<entti5;8765
+9819;par!si-ttu;-2411
+9820;,,s.5,.(556;-3482
+9821;¤%qwerty,.;-9020
+9822;Hei, olen kommentti.;-1745
+9823;-.4,56kom-m<entti5;1806
+9824;-.4,56kom-m<entti5;-2993
+9825;Hei, olen kommentti.;5051
+9826;¤%qwerty,.;394
+9827;¤%qwerty,.;2979
+9828;par!si-ttu;-5055
+9829;,,s.5,.(556;1047
+9830;,,s.5,.(556;-5554
+9831;Validi kommentti;9653
+9832;Hei, olen kommentti.;478
+9833;<>!=();-9317
+9834;-.4,56kom-m<entti5;2388
+9835;par!si-ttu;4240
+9836;Validi kommentti;-2260
+9837;-.4,56kom-m<entti5;-6764
+9838;¤%qwerty,.;3045
+9839;¤%qwerty,.;9677
+9840;par!si-ttu;-3633
+9841;,,s.5,.(556;-191
+9842;<>!=();19
+9843;Hei, olen kommentti.;4955
+9844;,,s.5,.(556;6250
+9845;Validi kommentti;-4821
+9846;-.4,56kom-m<entti5;-7899
+9847;<>!=();6625
+9848;Validi kommentti;-2610
+9849;,,s.5,.(556;8438
+9850;Validi kommentti;5308
+9851;¤%qwerty,.;7020
+9852;,,s.5,.(556;-6172
+9853;<>!=();-9613
+9854;Validi kommentti;-1206
+9855;Validi kommentti;6299
+9856;-.4,56kom-m<entti5;4378
+9857;-.4,56kom-m<entti5;-4041
+9858;¤%qwerty,.;-7068
+9859;Hei, olen kommentti.;-2842
+9860;Hei, olen kommentti.;6139
+9861;¤%qwerty,.;8435
+9862;Hei, olen kommentti.;-1836
+9863;par!si-ttu;-713
+9864;Validi kommentti;4639
+9865;<>!=();-9917
+9866;Hei, olen kommentti.;-9572
+9867;<>!=();8414
+9868;¤%qwerty,.;7797
+9869;-.4,56kom-m<entti5;6350
+9870;Validi kommentti;672
+9871;¤%qwerty,.;3496
+9872;,,s.5,.(556;6383
+9873;Hei, olen kommentti.;9673
+9874;Validi kommentti;-8149
+9875;par!si-ttu;1182
+9876;par!si-ttu;-7568
+9877;Validi kommentti;188
+9878;<>!=();-5429
+9879;¤%qwerty,.;5924
+9880;¤%qwerty,.;-3763
+9881;Hei, olen kommentti.;-4943
+9882;Hei, olen kommentti.;5066
+9883;Hei, olen kommentti.;-7605
+9884;Hei, olen kommentti.;1668
+9885;¤%qwerty,.;-2712
+9886;<>!=();9572
+9887;-.4,56kom-m<entti5;-2822
+9888;Hei, olen kommentti.;-8475
+9889;par!si-ttu;5745
+9890;¤%qwerty,.;-5777
+9891;-.4,56kom-m<entti5;104
+9892;-.4,56kom-m<entti5;8727
+9893;¤%qwerty,.;5976
+9894;par!si-ttu;-164
+9895;-.4,56kom-m<entti5;4895
+9896;,,s.5,.(556;-6943
+9897;-.4,56kom-m<entti5;-1650
+9898;Hei, olen kommentti.;6896
+9899;<>!=();-6176
+9900;¤%qwerty,.;-5818
+9901;,,s.5,.(556;959
+9902;Validi kommentti;-3758
+99999;flipflop!!;123
+9903;¤%qwerty,.;9901
+9904;,,s.5,.(556;5632
+9905;Hei, olen kommentti.;6562
+9906;-.4,56kom-m<entti5;-2050
+9907;Hei, olen kommentti.;3494
+9908;,,s.5,.(556;-5922
+9909;par!si-ttu;-3288
+9910;Validi kommentti;5425
+9911;<>!=();9705
+9912;,,s.5,.(556;8918
+9913;par!si-ttu;2591
+9914;<>!=();3601
+9915;Validi kommentti;9652
+9916;-.4,56kom-m<entti5;1646
+9917;par!si-ttu;-6580
+9918;<>!=();8475
+9919;Validi kommentti;1901
+9920;,,s.5,.(556;2680
+9921;Hei, olen kommentti.;-1009
+9922;Hei, olen kommentti.;5124
+9923;par!si-ttu;-1225
+9924;-.4,56kom-m<entti5;6388
+9925;-.4,56kom-m<entti5;5530
+9926;<>!=();9866
+9927;Validi kommentti;204
+9928;Validi kommentti;-2710
+9929;-.4,56kom-m<entti5;-462
+9930;<>!=();-4587
+9931;¤%qwerty,.;2199
+9932;-.4,56kom-m<entti5;-74
+9933;Hei, olen kommentti.;-5727
+9934;,,s.5,.(556;3242
+9935;,,s.5,.(556;-6128
+9936;<>!=();5027
+9937;Hei, olen kommentti.;-2732
+9938;-.4,56kom-m<entti5;7141
+9939;<>!=();6195
+9940;,,s.5,.(556;-6214
+9941;Hei, olen kommentti.;-264
+9942;Validi kommentti;5403
+9943;<>!=();7644
+9944;<>!=();1464
+9945;-.4,56kom-m<entti5;-9067
+9946;<>!=();-406
+9947;Validi kommentti;-7026
+9948;¤%qwerty,.;3867
+9949;Hei, olen kommentti.;-5970
+9950;¤%qwerty,.;8920
+9951;¤%qwerty,.;-31
+9952;¤%qwerty,.;-485
+9953;Validi kommentti;5279
+9954;<>!=();3045
+9955;Hei, olen kommentti.;-4587
+9956;Hei, olen kommentti.;-5242
+9957;Validi kommentti;-5524
+9958;par!si-ttu;7846
+9959;par!si-ttu;-4205
+9960;<>!=();5606
+9961;<>!=();-453
+9962;Validi kommentti;3179
+9963;-.4,56kom-m<entti5;186
+9964;,,s.5,.(556;3132
+9965;Hei, olen kommentti.;8574
+9966;par!si-ttu;4396
+9967;,,s.5,.(556;-3336
+9968;,,s.5,.(556;1412
+9969;Validi kommentti;-9938
+9970;¤%qwerty,.;-1979
+9971;Validi kommentti;4953
+9972;Hei, olen kommentti.;6798
+9973;¤%qwerty,.;-2142
+9978;Validi kommentti;9998
+9979;Validi kommentti;-7127
+9980;par!si-ttu;601
+9981;,,s.5,.(556;4065
+9982;-.4,56kom-m<entti5;-6077
+9983;Validi kommentti;-2492
+9984;Validi kommentti;8679
+9985;-.4,56kom-m<entti5;-1558
+9986;-.4,56kom-m<entti5;-4273
+9987;par!si-ttu;-2167
+9988;Hei, olen kommentti.;4922
+9989;,,s.5,.(556;-1831
+9990;Validi kommentti;6250
+9991;Validi kommentti;4125
+9992;Hei, olen kommentti.;-4525
+9993;Validi kommentti;-2557
+9994;<>!=();3535
+9995;¤%qwerty,.;-5764
+9996;Validi kommentti;-1885
+9997;¤%qwerty,.;8630
+9998;Validi kommentti;-4918
+9999;"#¤"%/%&#(#%&/#¤%&Q#¤%!"#¤¤&!#%¤/"!¤&("&%)&QUADH#¤&"#&!#&!%/%;-498327

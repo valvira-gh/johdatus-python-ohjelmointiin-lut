@@ -1,0 +1,11 @@
+Marja;Paino(g);Kellonaika
+vadelma;234.0;00:00
+sudenmarja;40.5;08:05
+lakka;123.4;11:43
+pensasmustikka;99.9;13:15
+karpalo;0.2;23:59
+karviainen;54.5;15:03
+viherherukka;11.1;11:11
+banaani;23.4;12:19
+papaija;2.9;5:15
+tomaatti;41.7;20:12

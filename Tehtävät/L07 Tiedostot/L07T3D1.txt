@@ -1,0 +1,3 @@
+Marja;Paino(g);Kellonaika
+vadelma;234.0;00:00
+lakka;123.4;11:43
